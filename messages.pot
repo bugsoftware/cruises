@@ -1,0 +1,4156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-03 06:38-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+#
+# File: accessdenied.php, line: 48
+# File: cruises_viewreservations.php, line: 1357
+# File: msg.php, line: 48
+msgid "Total:"
+msgstr ""
+#
+# File: accessdenied.php, line: 52
+msgid "Access denied"
+msgstr ""
+#
+# File: accessdenied.php, line: 53
+msgid "Access denied - You are not authorized to access this page."
+msgstr ""
+#
+# File: acl_createuser.php, line: 119
+msgid "Username already exists. Unable to create it. Please go back and create a new one."
+msgstr ""
+#
+# File: acl_createuser.php, line: 697
+# File: live_search.php, line: 170
+msgid "Property:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 698
+msgid "Create User"
+msgstr ""
+#
+# File: acl_createuser.php, line: 699
+msgid "Username:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 700
+# File: login.php, line: 580
+msgid "Password:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 701
+msgid "Email:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 702
+msgid "Phone:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 703
+msgid "Fax:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 704
+msgid "First name:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 705
+msgid "Last name:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 706
+msgid "Company:"
+msgstr ""
+#
+# File: acl_createuser.php, line: 707
+# File: create_cruises_cabincategories.php, line: 129
+# File: create_cruises_cabins.php, line: 645
+# File: create_cruises_cruisescategories.php, line: 124
+# File: create_cruises_cruiseslines.php, line: 235
+# File: create_cruises_cruisesports.php, line: 1178
+# File: create_cruises_cruisesregions.php, line: 140
+# File: create_cruises_cruisesroutes.php, line: 150
+# File: create_cruises_cruisesships.php, line: 1038
+# File: cruises_availabilitymaintenance.php, line: 89
+# File: cruises_availabilityrates.php, line: 309
+# File: cruises_cabincategories.php, line: 222
+# File: cruises_cabins.php, line: 230
+# File: cruises_carnivalgroup.php, line: 75
+# File: cruises_cruisescategories.php, line: 180
+# File: cruises_cruiseslines.php, line: 178
+# File: cruises_cruisesports.php, line: 193
+# File: cruises_cruisesregions.php, line: 194
+# File: cruises_cruisesroutes.php, line: 192
+# File: cruises_cruisesships.php, line: 176
+# File: cruises_listpendingreservations.php, line: 278
+# File: cruises_listpendingreservations.php, line: 317
+# File: cruises_listreservations.php, line: 110
+# File: cruises_listreservations.php, line: 313
+# File: cruises_makebookings.php, line: 83
+# File: cruises_seabourn.php, line: 75
+# File: cruises_searchreservations.php, line: 625
+# File: cruises_searchreservations.php, line: 686
+# File: cruises_supplements.php, line: 75
+# File: cruises_touricoholidays.php, line: 75
+# File: cruises_viewreservations.php, line: 1465
+# File: header.php, line: 81
+msgid "Help"
+msgstr ""
+#
+# File: acl_createuser.php, line: 708
+# File: create_cruises_cabincategories.php, line: 130
+# File: create_cruises_cabins.php, line: 646
+# File: create_cruises_cruisescategories.php, line: 125
+# File: create_cruises_cruiseslines.php, line: 236
+# File: create_cruises_cruisesports.php, line: 1179
+# File: create_cruises_cruisesregions.php, line: 141
+# File: create_cruises_cruisesroutes.php, line: 151
+# File: create_cruises_cruisesships.php, line: 1039
+# File: cruises_availabilitymaintenance.php, line: 90
+# File: cruises_availabilityrates.php, line: 313
+# File: cruises_bahamasexpress.php, line: 76
+# File: cruises_cabincategories.php, line: 204
+# File: cruises_cabins.php, line: 214
+# File: cruises_carnivalgroup.php, line: 76
+# File: cruises_cruisescategories.php, line: 162
+# File: cruises_cruisescategories.php, line: 181
+# File: cruises_cruiseslines.php, line: 160
+# File: cruises_cruiseslines.php, line: 179
+# File: cruises_cruisesports.php, line: 173
+# File: cruises_cruisesports.php, line: 194
+# File: cruises_cruisesregions.php, line: 174
+# File: cruises_cruisesregions.php, line: 195
+# File: cruises_cruisesroutes.php, line: 173
+# File: cruises_cruisesroutes.php, line: 193
+# File: cruises_cruisesships.php, line: 158
+# File: cruises_cruisesships.php, line: 177
+# File: cruises_listpendingreservations.php, line: 279
+# File: cruises_listreservations.php, line: 111
+# File: cruises_makebookings.php, line: 84
+# File: cruises_seabourn.php, line: 76
+# File: cruises_searchreservations.php, line: 687
+# File: cruises_supplements.php, line: 76
+# File: cruises_touricoholidays.php, line: 76
+# File: languages.php, line: 87
+# File: login.php, line: 583
+# File: settings.php, line: 254
+msgid "Reset"
+msgstr ""
+#
+# File: acl_createuser.php, line: 709
+# File: create_cruises_cabincategories.php, line: 131
+# File: create_cruises_cabins.php, line: 647
+# File: create_cruises_cruisescategories.php, line: 126
+# File: create_cruises_cruiseslines.php, line: 237
+# File: create_cruises_cruisesports.php, line: 1180
+# File: create_cruises_cruisesregions.php, line: 142
+# File: create_cruises_cruisesroutes.php, line: 152
+# File: create_cruises_cruisesships.php, line: 1040
+# File: cruises_availabilitymaintenance.php, line: 91
+# File: cruises_availabilityrates.php, line: 314
+# File: cruises_availabilityrates.php, line: 342
+# File: cruises_bahamasexpress.php, line: 75
+# File: cruises_cabincategories.php, line: 206
+# File: cruises_cabins.php, line: 215
+# File: cruises_carnivalgroup.php, line: 77
+# File: cruises_cruisescategories.php, line: 163
+# File: cruises_cruisescategories.php, line: 182
+# File: cruises_cruiseslines.php, line: 161
+# File: cruises_cruiseslines.php, line: 180
+# File: cruises_cruisesports.php, line: 174
+# File: cruises_cruisesports.php, line: 195
+# File: cruises_cruisesregions.php, line: 175
+# File: cruises_cruisesregions.php, line: 196
+# File: cruises_cruisesroutes.php, line: 174
+# File: cruises_cruisesroutes.php, line: 194
+# File: cruises_cruisesships.php, line: 159
+# File: cruises_cruisesships.php, line: 178
+# File: cruises_listpendingreservations.php, line: 280
+# File: cruises_listreservations.php, line: 112
+# File: cruises_makebookings.php, line: 85
+# File: cruises_seabourn.php, line: 77
+# File: cruises_searchreservations.php, line: 688
+# File: cruises_supplements.php, line: 77
+# File: cruises_touricoholidays.php, line: 77
+# File: languages.php, line: 88
+# File: languages.php, line: 152
+# File: login.php, line: 582
+# File: settings.php, line: 255
+msgid "Submit"
+msgstr ""
+#
+# File: acl_createuser.php, line: 710
+msgid "Username is required"
+msgstr ""
+#
+# File: acl_createuser.php, line: 711
+# File: login.php, line: 586
+msgid "Password is required"
+msgstr ""
+#
+# File: acl_createuser.php, line: 718
+# File: header.php, line: 46
+msgid "Administration"
+msgstr ""
+#
+# File: acl_createuser.php, line: 721
+# File: header.php, line: 49
+msgid "Consolidator"
+msgstr ""
+#
+# File: acl_createuser.php, line: 792
+msgid "No profile/Default base profile"
+msgstr ""
+#
+# File: acl_createuser.php, line: 801
+msgid "Profile:"
+msgstr ""
+#
+# File: areas.php, line: 64
+# File: create_cruises_cruisesregions.php, line: 217
+# File: create_cruises_cruisesregions.php, line: 245
+# File: create_cruises_cruisesregions.php, line: 249
+# File: create_cruises_cruisesregions.php, line: 253
+# File: create_cruises_cruisesregions.php, line: 301
+# File: create_cruises_cruisesregions.php, line: 305
+# File: create_cruises_cruisesregions.php, line: 309
+# File: cruises_availabilityrates.php, line: 212
+# File: cruises_availabilityrates.php, line: 221
+# File: cruises_availabilityrates.php, line: 231
+# File: cruises_availabilityrates.php, line: 242
+# File: cruises_availabilityratespdf.php, line: 216
+# File: cruises_availabilityratespdf.php, line: 228
+# File: cruises_availabilityratespdf.php, line: 255
+# File: cruises_availabilityratespdf.php, line: 264
+# File: cruises_availabilityratesxls.php, line: 190
+# File: cruises_availabilityratesxls.php, line: 202
+# File: cruises_availabilityratesxls.php, line: 229
+# File: cruises_availabilityratesxls.php, line: 238
+msgid "None"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 125
+# File: create_cruises_cabins.php, line: 625
+# File: create_cruises_cruisescategories.php, line: 121
+# File: create_cruises_cruiseslines.php, line: 231
+# File: create_cruises_cruisesports.php, line: 1171
+# File: create_cruises_cruisesships.php, line: 1014
+# File: cruises_cabincategories.php, line: 207
+# File: cruises_cabins.php, line: 216
+# File: cruises_cruisescategories.php, line: 164
+# File: cruises_cruiseslines.php, line: 162
+# File: cruises_cruisesports.php, line: 175
+# File: cruises_cruisesships.php, line: 160
+msgid "Code"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 126
+# File: create_cruises_cabincategories.php, line: 127
+# File: create_cruises_cabins.php, line: 626
+# File: create_cruises_cruisescategories.php, line: 122
+# File: create_cruises_cruiseslines.php, line: 232
+# File: create_cruises_cruisesports.php, line: 1172
+# File: create_cruises_cruisesregions.php, line: 134
+# File: create_cruises_cruisesroutes.php, line: 148
+# File: create_cruises_cruisesships.php, line: 1015
+# File: cruises_cabincategories.php, line: 210
+# File: cruises_cabins.php, line: 217
+# File: cruises_cruisescategories.php, line: 165
+# File: cruises_cruiseslines.php, line: 163
+# File: cruises_cruisesports.php, line: 176
+# File: cruises_cruisesregions.php, line: 176
+# File: cruises_cruisesroutes.php, line: 177
+# File: cruises_cruisesships.php, line: 161
+# File: cruises_viewreservations.php, line: 1332
+msgid "Name"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 128
+msgid "Create Cabin Category/Numbers"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 132
+# File: create_cruises_cruisescategories.php, line: 127
+msgid "Are you sure you want to delete this cruise category?"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 138
+# File: create_cruises_cabins.php, line: 655
+# File: create_cruises_cruisescategories.php, line: 133
+# File: create_cruises_cruiseslines.php, line: 254
+# File: create_cruises_cruisesports.php, line: 1210
+# File: create_cruises_cruisesregions.php, line: 150
+# File: create_cruises_cruisesroutes.php, line: 159
+# File: create_cruises_cruisesships.php, line: 1058
+# File: cruises_availabilitymaintenance.php, line: 93
+# File: cruises_availabilitymaintenance.php, line: 410
+# File: cruises_availabilityrates.php, line: 316
+# File: cruises_cabincategories.php, line: 213
+# File: cruises_cabins.php, line: 232
+# File: cruises_carnivalgroup.php, line: 79
+# File: cruises_cruisescategories.php, line: 170
+# File: cruises_cruisescategories.php, line: 184
+# File: cruises_cruiseslines.php, line: 168
+# File: cruises_cruiseslines.php, line: 182
+# File: cruises_cruisesports.php, line: 183
+# File: cruises_cruisesports.php, line: 197
+# File: cruises_cruisesregions.php, line: 184
+# File: cruises_cruisesregions.php, line: 198
+# File: cruises_cruisesroutes.php, line: 182
+# File: cruises_cruisesroutes.php, line: 196
+# File: cruises_cruisesships.php, line: 166
+# File: cruises_cruisesships.php, line: 180
+# File: cruises_listpendingreservations.php, line: 282
+# File: cruises_listreservations.php, line: 114
+# File: cruises_seabourn.php, line: 79
+# File: cruises_searchreservations.php, line: 690
+# File: cruises_supplements.php, line: 79
+# File: cruises_touricoholidays.php, line: 79
+# File: cruises_viewreservations.php, line: 1875
+# File: languages.php, line: 91
+# File: settings.php, line: 258
+msgid "Delete"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 139
+msgid "Are you sure you want to delete the selected cabin category?"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 154
+# File: create_cruises_cabins.php, line: 793
+# File: create_cruises_cruisescategories.php, line: 147
+# File: create_cruises_cruiseslines.php, line: 311
+# File: create_cruises_cruisesports.php, line: 1436
+# File: create_cruises_cruisesregions.php, line: 180
+# File: create_cruises_cruisesroutes.php, line: 217
+# File: create_cruises_cruisesships.php, line: 1330
+# File: cruises_cruisesroutes.php, line: 239
+msgid "Name is Required"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 155
+# File: create_cruises_cabins.php, line: 794
+# File: create_cruises_cruisescategories.php, line: 148
+# File: create_cruises_cruiseslines.php, line: 312
+# File: create_cruises_cruisesports.php, line: 1437
+# File: create_cruises_cruisesships.php, line: 1331
+msgid "Code is Required"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 157
+# File: create_cruises_cabins.php, line: 796
+# File: cruises_availabilityrates.php, line: 299
+# File: cruises_availabilityratespdf.php, line: 159
+# File: cruises_availabilityratesxls.php, line: 276
+# File: cruises_cabincategories.php, line: 208
+# File: cruises_cabins.php, line: 207
+msgid "Ship"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 164
+# File: create_cruises_cabincategories.php, line: 183
+# File: create_cruises_cabins.php, line: 803
+# File: create_cruises_cabins.php, line: 822
+# File: create_cruises_cruisesports.php, line: 1480
+# File: create_cruises_cruisesships.php, line: 1342
+# File: create_cruises_cruisesships.php, line: 1362
+# File: cruises_searchreservations.php, line: 586
+# File: framemiddle.php, line: 64
+# File: framemiddle.php, line: 77
+# File: framemiddle.php, line: 82
+# File: framemiddle.php, line: 200
+# File: index.php, line: 122
+# File: index.php, line: 135
+# File: index.php, line: 140
+# File: index.php, line: 258
+msgid "All"
+msgstr ""
+#
+# File: create_cruises_cabincategories.php, line: 176
+# File: cruises_availabilityrates.php, line: 300
+# File: cruises_availabilityratespdf.php, line: 158
+# File: cruises_availabilityratesxls.php, line: 275
+# File: cruises_cabincategories.php, line: 209
+# File: cruises_listpendingreservations.php, line: 327
+# File: cruises_listreservations.php, line: 324
+# File: cruises_viewreservations.php, line: 1326
+msgid "Cabin"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 627
+msgid "Number Cabins on Cruise"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 628
+# File: create_cruises_cruisesregions.php, line: 135
+# File: cruises_cruisesregions.php, line: 177
+msgid "Description"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 629
+# File: cruises_cabins.php, line: 218
+msgid "Location"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 630
+# File: cruises_cabins.php, line: 219
+msgid "Square Footage"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 631
+# File: cruises_cabins.php, line: 220
+msgid "Balcony Square Footage"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 632
+# File: cruises_cabins.php, line: 221
+msgid "Occupancy"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 633
+msgid "Amenities"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 634
+# File: create_cruises_cruisesships.php, line: 1041
+msgid "Map File"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 635
+msgid "Extras"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 636
+# File: create_cruises_cruisesports.php, line: 1438
+# File: create_cruises_cruisesships.php, line: 1022
+msgid "Image 1:"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 637
+# File: create_cruises_cruisesports.php, line: 1439
+# File: create_cruises_cruisesships.php, line: 1023
+msgid "Image 2:"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 638
+# File: create_cruises_cruisesports.php, line: 1440
+# File: create_cruises_cruisesships.php, line: 1024
+msgid "Image 3:"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 639
+# File: create_cruises_cruisesports.php, line: 1441
+# File: create_cruises_cruisesships.php, line: 1025
+msgid "Image 4:"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 640
+# File: create_cruises_cruisesports.php, line: 1442
+# File: create_cruises_cruisesships.php, line: 1026
+msgid "Image 5:"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 641
+# File: create_cruises_cruisesports.php, line: 1443
+# File: create_cruises_cruisesships.php, line: 1027
+msgid "Image 6:"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 642
+# File: create_cruises_cruisesports.php, line: 1444
+# File: create_cruises_cruisesships.php, line: 1028
+msgid "Image 7:"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 643
+# File: create_cruises_cruisesports.php, line: 1445
+# File: create_cruises_cruisesships.php, line: 1029
+msgid "Image 8:"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 644
+msgid "Create Cruise Cabin"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 648
+msgid "Are you sure you want to delete this cruise cabin?"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 649
+# File: create_cruises_cruiseslines.php, line: 239
+# File: create_cruises_cruisesports.php, line: 1454
+# File: create_cruises_cruisesships.php, line: 1052
+msgid "Set picture to none and delete picture from system"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 656
+# File: create_cruises_cruisesships.php, line: 1059
+# File: cruises_cruisesships.php, line: 164
+msgid "Are you sure you want to delete the selected cruise ship?"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 795
+# File: create_cruises_cruisesships.php, line: 1332
+msgid "(Image Description/Caption)"
+msgstr ""
+#
+# File: create_cruises_cabins.php, line: 815
+# File: create_cruises_cruisesships.php, line: 1335
+# File: cruises_cruisescategories.php, line: 166
+# File: cruises_cruiseslines.php, line: 164
+# File: cruises_cruisesroutes.php, line: 178
+# File: cruises_cruisesships.php, line: 163
+# File: cruises_cruisesships.php, line: 185
+msgid "Category"
+msgstr ""
+#
+# File: create_cruises_cruisescategories.php, line: 123
+msgid "Create Cruise Category"
+msgstr ""
+#
+# File: create_cruises_cruisescategories.php, line: 134
+# File: cruises_cruisescategories.php, line: 168
+msgid "Are you sure you want to delete the selected cruise category?"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 233
+msgid "Logo"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 234
+msgid "Create Cruise Line"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 238
+msgid "Are you sure you want to delete this cruise line?"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 241
+# File: create_cruises_cruisesports.php, line: 1465
+# File: create_cruises_cruisesships.php, line: 1043
+msgid "Internal"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 242
+# File: create_cruises_cruisesports.php, line: 1175
+# File: create_cruises_cruisesports.php, line: 1466
+# File: create_cruises_cruisesregions.php, line: 137
+# File: create_cruises_cruisesships.php, line: 1044
+# File: cruises_carnivalgroup.php, line: 74
+# File: cruises_cruisesports.php, line: 177
+# File: cruises_cruisesregions.php, line: 178
+# File: cruises_viewreservations.php, line: 1441
+# File: header.php, line: 413
+msgid "Carnival Group"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 243
+# File: create_cruises_cruisesports.php, line: 1467
+# File: create_cruises_cruisesships.php, line: 1045
+# File: cruises_seabourn.php, line: 74
+# File: cruises_viewreservations.php, line: 1444
+# File: header.php, line: 414
+msgid "Sea Bourn"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 244
+# File: create_cruises_cruisesports.php, line: 1468
+# File: create_cruises_cruisesships.php, line: 1046
+# File: cruises_bahamasexpress.php, line: 74
+msgid "Balearia Bahamas Express"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 245
+# File: create_cruises_cruisesports.php, line: 1469
+# File: create_cruises_cruisesships.php, line: 1047
+# File: cruises_touricoholidays.php, line: 74
+# File: frameleft.php, line: 195
+msgid "Tourico Holidays"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 246
+# File: create_cruises_cruisesports.php, line: 1470
+# File: create_cruises_cruisesships.php, line: 1048
+msgid "Ships"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 247
+# File: create_cruises_cruisesports.php, line: 1471
+# File: create_cruises_cruisesships.php, line: 1049
+msgid "XML"
+msgstr ""
+#
+# File: create_cruises_cruiseslines.php, line: 255
+# File: cruises_cruiseslines.php, line: 166
+# File: cruises_cruisesports.php, line: 181
+msgid "Are you sure you want to delete the selected cruise line?"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1173
+msgid "Region"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1174
+msgid "Create Cruise Port"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1176
+# File: create_cruises_cruisesregions.php, line: 138
+# File: cruises_cruisesports.php, line: 178
+# File: cruises_cruisesregions.php, line: 179
+msgid "Sea Born"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1177
+# File: create_cruises_cruisesregions.php, line: 139
+# File: cruises_cruisesports.php, line: 179
+# File: cruises_cruisesregions.php, line: 180
+msgid "Bahamas Express"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1181
+msgid "Are you sure you want to delete this cruise port?"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1182
+msgid "Latitude:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1183
+msgid "Longitude:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1184
+msgid "Depth:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1211
+msgid "Are you sure you want to delete the selected cruise port?"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1446
+# File: create_cruises_cruisesships.php, line: 1030
+msgid "Image 9:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1447
+# File: create_cruises_cruisesships.php, line: 1031
+msgid "Image 10:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1448
+# File: create_cruises_cruisesships.php, line: 1032
+msgid "Image 11:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1449
+# File: create_cruises_cruisesships.php, line: 1033
+msgid "Image 12:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1450
+# File: create_cruises_cruisesships.php, line: 1034
+msgid "Image 13:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1451
+# File: create_cruises_cruisesships.php, line: 1035
+msgid "Image 14:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1452
+# File: create_cruises_cruisesships.php, line: 1036
+msgid "Image 15:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1453
+msgid "Map:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1455
+msgid "Place lodging on map (please, be precise)"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1456
+msgid "Double click with left mouse zooms in"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1457
+msgid "Double click with right mouse zooms out."
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1458
+msgid "Find the location of the hotel and click Set/move Marker."
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1459
+msgid "Click on the location on the map where the property is located."
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1460
+msgid "Set/move marker"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1461
+msgid "We use Google maps, wich don't have detailed maps over the entire world yet. If you can't find the street, try and click 'sattelite' to get a sattelite image over the area. This might enable you to find the location of your lodging. Hopefully, Google maps will expand their detailed maps in the future."
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1462
+msgid "NB:"
+msgstr ""
+#
+# File: create_cruises_cruisesports.php, line: 1463
+# File: framemiddle.php, line: 218
+# File: index.php, line: 276
+msgid "Search"
+msgstr ""
+#
+# File: create_cruises_cruisesregions.php, line: 136
+msgid "Create Cruise Region"
+msgstr ""
+#
+# File: create_cruises_cruisesregions.php, line: 143
+msgid "Are you sure you want to delete this cruise region?"
+msgstr ""
+#
+# File: create_cruises_cruisesregions.php, line: 151
+# File: cruises_cruisesregions.php, line: 182
+msgid "Are you sure you want to delete the selected cruise region?"
+msgstr ""
+#
+# File: create_cruises_cruisesregions.php, line: 181
+msgid "Country:"
+msgstr ""
+#
+# File: create_cruises_cruisesregions.php, line: 182
+msgid "State/Region/Zone:"
+msgstr ""
+#
+# File: create_cruises_cruisesregions.php, line: 183
+# File: framemiddle.php, line: 230
+# File: index.php, line: 288
+msgid "City:"
+msgstr ""
+#
+# File: create_cruises_cruisesroutes.php, line: 149
+msgid "Create Cruise Route"
+msgstr ""
+#
+# File: create_cruises_cruisesroutes.php, line: 153
+msgid "Are you sure you want to delete this cruise route?"
+msgstr ""
+#
+# File: create_cruises_cruisesroutes.php, line: 160
+# File: cruises_cruisesroutes.php, line: 180
+msgid "Are you sure you want to delete the selected cruise route?"
+msgstr ""
+#
+# File: create_cruises_cruisesroutes.php, line: 179
+# File: cruises_availabilitymaintenance.php, line: 493
+# File: cruises_cruisesroutes.php, line: 206
+msgid "- Please select the departure port -"
+msgstr ""
+#
+# File: create_cruises_cruisesroutes.php, line: 194
+# File: cruises_availabilityrates.php, line: 294
+# File: cruises_availabilityratesxls.php, line: 267
+# File: cruises_cruisesroutes.php, line: 175
+msgid "Departure Port"
+msgstr ""
+#
+# File: create_cruises_cruisesroutes.php, line: 201
+# File: cruises_availabilitymaintenance.php, line: 515
+# File: cruises_cruisesroutes.php, line: 224
+msgid "- Please select the arrival port -"
+msgstr ""
+#
+# File: create_cruises_cruisesroutes.php, line: 216
+# File: cruises_availabilityrates.php, line: 295
+# File: cruises_availabilityratesxls.php, line: 269
+# File: cruises_cruisesroutes.php, line: 176
+# File: cruises_cruisesroutes.php, line: 238
+msgid "Arrival Port"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1016
+# File: header.php, line: 175
+msgid "Overview"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1017
+# File: cruises_listpendingreservationssxls.php, line: 311
+# File: cruises_listreservationssxls.php, line: 312
+msgid "Cabins"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1018
+msgid "Dining"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1019
+msgid "Activities"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1020
+msgid "Highlights"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1021
+msgid "About"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1037
+msgid "Create Cruise Ship"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1051
+msgid "Are you sure you want to delete this cruise ship?"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1355
+msgid "Cruise Line"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1373
+msgid "Enabled"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1375
+msgid "Disabled"
+msgstr ""
+#
+# File: create_cruises_cruisesships.php, line: 1378
+# File: cruises_cruisesships.php, line: 162
+# File: cruises_searchreservations.php, line: 642
+# File: cruises_searchreservationspdf.php, line: 167
+# File: cruises_searchreservationsxls.php, line: 207
+# File: cruises_viewreservations.php, line: 1461
+msgid "Status"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 88
+# File: header.php, line: 192
+# File: header.php, line: 232
+# File: header.php, line: 403
+msgid "Availability Maintenance"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 92
+# File: cruises_availabilityrates.php, line: 315
+# File: cruises_cabincategories.php, line: 212
+# File: cruises_cabins.php, line: 224
+# File: cruises_cabins.php, line: 231
+# File: cruises_carnivalgroup.php, line: 78
+# File: cruises_cruisescategories.php, line: 169
+# File: cruises_cruisescategories.php, line: 183
+# File: cruises_cruiseslines.php, line: 167
+# File: cruises_cruiseslines.php, line: 181
+# File: cruises_cruisesports.php, line: 182
+# File: cruises_cruisesports.php, line: 196
+# File: cruises_cruisesregions.php, line: 183
+# File: cruises_cruisesregions.php, line: 197
+# File: cruises_cruisesroutes.php, line: 181
+# File: cruises_cruisesroutes.php, line: 195
+# File: cruises_cruisesships.php, line: 165
+# File: cruises_cruisesships.php, line: 179
+# File: cruises_listpendingreservations.php, line: 281
+# File: cruises_listreservations.php, line: 113
+# File: cruises_makebookings.php, line: 81
+# File: cruises_seabourn.php, line: 78
+# File: cruises_searchreservations.php, line: 689
+# File: cruises_supplements.php, line: 78
+# File: cruises_touricoholidays.php, line: 78
+# File: cruises_viewreservations.php, line: 1874
+# File: cruises_viewreservations.php, line: 1937
+# File: frameleft.php, line: 210
+# File: header.php, line: 77
+# File: languages.php, line: 90
+# File: settings.php, line: 257
+msgid "Dashboard"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 94
+# File: cruises_availabilityrates.php, line: 317
+# File: cruises_cabincategories.php, line: 224
+# File: cruises_cabins.php, line: 233
+# File: cruises_carnivalgroup.php, line: 80
+# File: cruises_cruisescategories.php, line: 172
+# File: cruises_cruisescategories.php, line: 185
+# File: cruises_cruiseslines.php, line: 170
+# File: cruises_cruiseslines.php, line: 183
+# File: cruises_cruisesports.php, line: 185
+# File: cruises_cruisesports.php, line: 198
+# File: cruises_cruisesregions.php, line: 186
+# File: cruises_cruisesregions.php, line: 199
+# File: cruises_cruisesroutes.php, line: 184
+# File: cruises_cruisesroutes.php, line: 197
+# File: cruises_cruisesships.php, line: 168
+# File: cruises_cruisesships.php, line: 181
+# File: cruises_listpendingreservations.php, line: 283
+# File: cruises_listreservations.php, line: 115
+# File: cruises_seabourn.php, line: 80
+# File: cruises_searchreservations.php, line: 691
+# File: cruises_supplements.php, line: 80
+# File: cruises_touricoholidays.php, line: 80
+# File: cruises_viewreservations.php, line: 1877
+# File: languages.php, line: 92
+# File: settings.php, line: 259
+msgid "Edit"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 95
+# File: cruises_availabilityrates.php, line: 318
+# File: cruises_cabincategories.php, line: 214
+# File: cruises_cabins.php, line: 234
+# File: cruises_carnivalgroup.php, line: 81
+# File: cruises_cruisescategories.php, line: 171
+# File: cruises_cruisescategories.php, line: 186
+# File: cruises_cruiseslines.php, line: 169
+# File: cruises_cruiseslines.php, line: 184
+# File: cruises_cruisesports.php, line: 184
+# File: cruises_cruisesports.php, line: 199
+# File: cruises_cruisesregions.php, line: 185
+# File: cruises_cruisesregions.php, line: 200
+# File: cruises_cruisesroutes.php, line: 183
+# File: cruises_cruisesroutes.php, line: 198
+# File: cruises_cruisesships.php, line: 167
+# File: cruises_cruisesships.php, line: 182
+# File: cruises_listpendingreservations.php, line: 284
+# File: cruises_listreservations.php, line: 116
+# File: cruises_seabourn.php, line: 81
+# File: cruises_searchreservations.php, line: 692
+# File: cruises_supplements.php, line: 81
+# File: cruises_touricoholidays.php, line: 81
+# File: cruises_viewreservations.php, line: 1884
+# File: languages.php, line: 93
+# File: settings.php, line: 260
+msgid "Cancel"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 96
+# File: cruises_availabilityrates.php, line: 319
+# File: cruises_cabincategories.php, line: 218
+# File: cruises_cabins.php, line: 235
+# File: cruises_carnivalgroup.php, line: 82
+# File: cruises_cruisescategories.php, line: 175
+# File: cruises_cruisescategories.php, line: 187
+# File: cruises_cruiseslines.php, line: 173
+# File: cruises_cruiseslines.php, line: 185
+# File: cruises_cruisesports.php, line: 188
+# File: cruises_cruisesports.php, line: 200
+# File: cruises_cruisesregions.php, line: 189
+# File: cruises_cruisesregions.php, line: 201
+# File: cruises_cruisesroutes.php, line: 187
+# File: cruises_cruisesroutes.php, line: 199
+# File: cruises_cruisesships.php, line: 171
+# File: cruises_cruisesships.php, line: 183
+# File: cruises_listpendingreservations.php, line: 285
+# File: cruises_listreservations.php, line: 117
+# File: cruises_seabourn.php, line: 82
+# File: cruises_searchreservations.php, line: 693
+# File: cruises_supplements.php, line: 82
+# File: cruises_touricoholidays.php, line: 82
+# File: cruises_viewreservations.php, line: 1889
+# File: languages.php, line: 96
+# File: settings.php, line: 263
+msgid "Options"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 97
+# File: cruises_availabilityrates.php, line: 320
+# File: cruises_bahamasexpress.php, line: 97
+# File: cruises_cabincategories.php, line: 225
+# File: cruises_cabins.php, line: 236
+# File: cruises_carnivalgroup.php, line: 83
+# File: cruises_cruisescategories.php, line: 188
+# File: cruises_cruiseslines.php, line: 186
+# File: cruises_cruisesports.php, line: 201
+# File: cruises_cruisesregions.php, line: 202
+# File: cruises_cruisesroutes.php, line: 200
+# File: cruises_cruisesships.php, line: 184
+# File: cruises_listpendingreservations.php, line: 286
+# File: cruises_listreservations.php, line: 118
+# File: cruises_makebookings.php, line: 82
+# File: cruises_seabourn.php, line: 83
+# File: cruises_searchreservations.php, line: 694
+# File: cruises_supplements.php, line: 83
+# File: cruises_touricoholidays.php, line: 83
+# File: cruises_viewreservations.php, line: 1894
+# File: cruises_viewreservations.php, line: 1936
+# File: header.php, line: 405
+msgid "Cruises Manager"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 274
+# File: cruises_availabilityrates.php, line: 93
+# File: cruises_availabilityrates.php, line: 113
+msgid "Unable to delete availability, there are reservations made for this block."
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 276
+# File: cruises_availabilityrates.php, line: 95
+# File: cruises_availabilityrates.php, line: 115
+msgid "Availability #"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 396
+# File: cruises_availabilityrates.php, line: 298
+# File: cruises_availabilityratespdf.php, line: 157
+# File: cruises_availabilityratesxls.php, line: 274
+msgid "Infant Price"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 397
+msgid "Cabin price"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 398
+msgid "Single price"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 399
+msgid "Children Price"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 400
+msgid "Allotment is required. Simply set a maximum allotment or inventory for this Cabin."
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 401
+msgid "Cabin is required"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 402
+msgid "Price is required"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 406
+# File: cruises_availabilitymaintenance.php, line: 585
+# File: cruises_availabilitymaintenance.php, line: 592
+# File: cruises_availabilityrates.php, line: 325
+# File: cruises_cabincategories.php, line: 158
+# File: cruises_cabins.php, line: 165
+msgid "- Please select -"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 411
+msgid "Are you sure you want to delete this rate?"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 508
+msgid "Departure Port:"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 530
+msgid "Arrival Port:"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 537
+msgid "- Please select the cabin -"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 552
+msgid "Cabin:"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 553
+msgid "Date from:"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 554
+msgid "Date to:"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 582
+# File: framemiddle.php, line: 217
+# File: index.php, line: 275
+msgid "Allotment:"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 583
+# File: cruises_viewreservations.php, line: 1895
+# File: languages.php, line: 97
+# File: settings.php, line: 264
+msgid "Update Selected"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 584
+msgid "Sorry you cannot check in on this date"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 586
+msgid "Please enter a valid month"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 587
+msgid "Please enter a valid day"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 588
+msgid "Invalid date range"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 607
+# File: cruises_availabilityrates.php, line: 341
+msgid "Ship:"
+msgstr ""
+#
+# File: cruises_availabilitymaintenance.php, line: 610
+msgid "more..."
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 284
+msgid "Sort by Date from"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 285
+msgid "Sort by Date to"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 286
+msgid "Sort by Person Price"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 287
+msgid "Sort by Child Price"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 288
+msgid "Sort by Infant Price"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 289
+# File: cruises_listpendingreservations.php, line: 313
+# File: cruises_listreservations.php, line: 309
+msgid "Sort by Cabin"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 290
+msgid "Sort by Ship"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 291
+# File: cruises_availabilityratesxls.php, line: 270
+msgid "Duration Days"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 292
+msgid "Departure Date"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 293
+# File: cruises_availabilityratesxls.php, line: 268
+msgid "Arrival Date"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 296
+# File: cruises_availabilityratespdf.php, line: 155
+# File: cruises_availabilityratesxls.php, line: 272
+msgid "Cabin Price"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 297
+# File: cruises_availabilityratespdf.php, line: 156
+# File: cruises_availabilityratesxls.php, line: 273
+msgid "Child Price"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 302
+# File: cruises_availabilityrates.php, line: 312
+# File: cruises_availabilityratespdf.php, line: 125
+# File: header.php, line: 404
+msgid "Availability Rates"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 303
+# File: cruises_availabilityrates.php, line: 311
+# File: cruises_cabincategories.php, line: 216
+# File: cruises_cabins.php, line: 225
+# File: cruises_cruisescategories.php, line: 173
+# File: cruises_cruiseslines.php, line: 171
+# File: cruises_cruisesports.php, line: 186
+# File: cruises_cruisesregions.php, line: 187
+# File: cruises_cruisesroutes.php, line: 185
+# File: cruises_cruisesships.php, line: 169
+# File: cruises_listpendingreservations.php, line: 312
+# File: cruises_listreservations.php, line: 308
+# File: cruises_listreservations.php, line: 314
+# File: cruises_searchreservations.php, line: 626
+# File: cruises_viewreservations.php, line: 1885
+# File: languages.php, line: 94
+# File: settings.php, line: 261
+msgid "Delete selected"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 304
+msgid "Sort by View"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 305
+msgid "View"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 306
+# File: cruises_listpendingreservations.php, line: 314
+# File: cruises_listreservations.php, line: 310
+# File: cruises_searchreservations.php, line: 628
+# File: cruises_viewreservations.php, line: 1462
+msgid "of"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 307
+# File: cruises_listpendingreservations.php, line: 315
+# File: cruises_listreservations.php, line: 311
+# File: cruises_searchreservations.php, line: 629
+# File: cruises_viewreservations.php, line: 1463
+msgid "Shown"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 308
+msgid "Are you sure you want to delete the selected rates?"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 310
+msgid " Add Availability Maintenance"
+msgstr ""
+#
+# File: cruises_availabilityrates.php, line: 321
+# File: cruises_availabilityratesxls.php, line: 271
+msgid "Single Price"
+msgstr ""
+#
+# File: cruises_availabilityratespdf.php, line: 150
+# File: cruises_listpendingreservations.php, line: 320
+# File: cruises_listpendingreservationspdf.php, line: 252
+# File: cruises_listpendingreservationssxls.php, line: 309
+# File: cruises_listreservations.php, line: 317
+# File: cruises_listreservationspdf.php, line: 252
+# File: cruises_listreservationssxls.php, line: 310
+# File: cruises_searchreservations.php, line: 635
+# File: cruises_searchreservationspdf.php, line: 163
+# File: cruises_searchreservationsxls.php, line: 203
+# File: cruises_viewreservations.php, line: 1865
+msgid "From"
+msgstr ""
+#
+# File: cruises_availabilityratespdf.php, line: 151
+msgid "Dep. Port"
+msgstr ""
+#
+# File: cruises_availabilityratespdf.php, line: 152
+# File: cruises_listpendingreservations.php, line: 321
+# File: cruises_listpendingreservationspdf.php, line: 253
+# File: cruises_listpendingreservationssxls.php, line: 310
+# File: cruises_listreservations.php, line: 318
+# File: cruises_listreservationspdf.php, line: 253
+# File: cruises_listreservationssxls.php, line: 311
+# File: cruises_searchreservations.php, line: 636
+# File: cruises_searchreservationspdf.php, line: 164
+# File: cruises_searchreservationsxls.php, line: 204
+# File: cruises_viewreservations.php, line: 1866
+msgid "To"
+msgstr ""
+#
+# File: cruises_availabilityratespdf.php, line: 153
+msgid "Arr. Port"
+msgstr ""
+#
+# File: cruises_availabilityratespdf.php, line: 154
+msgid "Days"
+msgstr ""
+#
+# File: cruises_availabilityratespdf.php, line: 281
+# File: cruises_availabilityratesxls.php, line: 259
+# File: cruises_availabilityratesxls.php, line: 265
+msgid "Availability Rates - Cruises"
+msgstr ""
+#
+# File: cruises_availabilityratesxls.php, line: 266
+msgid "Duration Date"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 77
+msgid "Enable Balearia Bahamas Express"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 78
+msgid "Enable Balearia Bahamas Express:"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 79
+# File: cruises_touricoholidays.php, line: 91
+msgid "Markup"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 80
+# File: cruises_touricoholidays.php, line: 92
+msgid "B2C Markup"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 81
+msgid "B2B Tax Percentage"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 82
+msgid "B2C Tax Percentage"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 83
+msgid "Sistema:"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 84
+msgid "Clave Sistema:"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 85
+msgid "Sistema is required"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 86
+msgid "Clave Sistema is required"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 87
+msgid "Agencia:"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 88
+msgid "Clave Agencia:"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 89
+msgid "Usuario:"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 90
+msgid "Agencia is required"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 91
+msgid "Clave Agencia is required"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 92
+msgid "Usuario is required"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 93
+msgid "Webservices URL is required"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 94
+msgid "Booking Scheduling Web Service is required"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 95
+msgid "Webservices URL"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 96
+msgid "Booking Scheduling Web Service"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 116
+# File: cruises_bahamasexpress.php, line: 136
+# File: cruises_bahamasexpress.php, line: 156
+# File: cruises_bahamasexpress.php, line: 176
+# File: cruises_bahamasexpress.php, line: 196
+# File: cruises_bahamasexpress.php, line: 216
+# File: cruises_bahamasexpress.php, line: 236
+# File: cruises_bahamasexpress.php, line: 255
+# File: cruises_bahamasexpress.php, line: 275
+# File: cruises_bahamasexpress.php, line: 295
+# File: cruises_bahamasexpress.php, line: 315
+# File: cruises_bahamasexpress.php, line: 335
+# File: cruises_bahamasexpress.php, line: 358
+# File: cruises_touricoholidays.php, line: 111
+# File: cruises_touricoholidays.php, line: 131
+# File: cruises_touricoholidays.php, line: 151
+# File: cruises_touricoholidays.php, line: 184
+# File: cruises_touricoholidays.php, line: 205
+# File: cruises_touricoholidays.php, line: 225
+# File: cruises_touricoholidays.php, line: 253
+msgid "Unable to update settings"
+msgstr ""
+#
+# File: cruises_bahamasexpress.php, line: 394
+# File: cruises_touricoholidays.php, line: 286
+msgid "Cancellation and Privacy Policies"
+msgstr ""
+#
+# File: cruises_cabincategories.php, line: 205
+# File: cruises_cabins.php, line: 237
+msgid "Cruise Ship:"
+msgstr ""
+#
+# File: cruises_cabincategories.php, line: 211
+msgid "Cabin Categories/Numbers"
+msgstr ""
+#
+# File: cruises_cabincategories.php, line: 215
+# File: cruises_cabincategories.php, line: 220
+# File: cruises_cabins.php, line: 227
+# File: cruises_cruisescategories.php, line: 177
+# File: cruises_cruiseslines.php, line: 175
+# File: cruises_cruisesports.php, line: 190
+# File: cruises_cruisesregions.php, line: 191
+# File: cruises_cruisesroutes.php, line: 189
+# File: cruises_cruisesships.php, line: 173
+msgid "Add New"
+msgstr ""
+#
+# File: cruises_cabincategories.php, line: 217
+# File: cruises_cabins.php, line: 226
+# File: cruises_cruisescategories.php, line: 174
+# File: cruises_cruiseslines.php, line: 172
+# File: cruises_cruisesports.php, line: 187
+# File: cruises_cruisesregions.php, line: 188
+# File: cruises_cruisesroutes.php, line: 186
+# File: cruises_cruisesships.php, line: 170
+# File: cruises_viewreservations.php, line: 1888
+# File: header.php, line: 79
+# File: languages.php, line: 95
+# File: login.php, line: 585
+# File: settings.php, line: 262
+msgid "Please wait..."
+msgstr ""
+#
+# File: cruises_cabincategories.php, line: 219
+# File: cruises_cruisescategories.php, line: 176
+# File: cruises_cruiseslines.php, line: 174
+# File: cruises_cruisesports.php, line: 189
+# File: cruises_cruisesregions.php, line: 190
+# File: cruises_cruisesroutes.php, line: 188
+# File: cruises_cruisesships.php, line: 172
+# File: header.php, line: 45
+# File: languages.php, line: 98
+# File: settings.php, line: 265
+msgid "Travel Manager"
+msgstr ""
+#
+# File: cruises_cabincategories.php, line: 223
+# File: cruises_cabins.php, line: 222
+# File: cruises_cruisescategories.php, line: 167
+# File: cruises_cruiseslines.php, line: 165
+# File: cruises_cruisesports.php, line: 180
+# File: cruises_cruisesregions.php, line: 181
+# File: cruises_cruisesroutes.php, line: 179
+# File: cruises_viewreservations.php, line: 1458
+msgid "Update selected"
+msgstr ""
+#
+# File: cruises_cabins.php, line: 223
+msgid "Are you sure you want to delete the selected cruise cabin?"
+msgstr ""
+#
+# File: cruises_cabins.php, line: 229
+# File: header.php, line: 169
+msgid "Cruise Cabins"
+msgstr ""
+#
+# File: cruises_cruisescategories.php, line: 179
+msgid "Cruise Categories"
+msgstr ""
+#
+# File: cruises_cruiseslines.php, line: 177
+# File: header.php, line: 408
+msgid "Cruise Lines"
+msgstr ""
+#
+# File: cruises_cruisesports.php, line: 192
+msgid "Cruise Ports"
+msgstr ""
+#
+# File: cruises_cruisesregions.php, line: 193
+msgid "Cruise Regions"
+msgstr ""
+#
+# File: cruises_cruisesroutes.php, line: 191
+msgid "Cruise Routes"
+msgstr ""
+#
+# File: cruises_cruisesships.php, line: 137
+msgid "Disable"
+msgstr ""
+#
+# File: cruises_cruisesships.php, line: 139
+msgid "Enable"
+msgstr ""
+#
+# File: cruises_cruisesships.php, line: 175
+# File: header.php, line: 168
+msgid "Cruise Ships"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 212
+# File: cruises_listpendingreservations.php, line: 215
+# File: cruises_listpendingreservations.php, line: 218
+# File: cruises_listpendingreservationssxls.php, line: 221
+# File: cruises_listpendingreservationssxls.php, line: 224
+# File: cruises_listpendingreservationssxls.php, line: 227
+# File: cruises_listreservations.php, line: 218
+# File: cruises_listreservations.php, line: 221
+# File: cruises_listreservations.php, line: 224
+# File: cruises_listreservationssxls.php, line: 222
+# File: cruises_listreservationssxls.php, line: 225
+# File: cruises_listreservationssxls.php, line: 228
+msgid "Unknown"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 277
+# File: header.php, line: 229
+# File: header.php, line: 330
+# File: header.php, line: 401
+msgid "List Pending Reservations"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 308
+# File: cruises_listreservations.php, line: 304
+msgid "Sort by Reservation Date"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 309
+# File: cruises_listreservations.php, line: 305
+msgid "Sort by From"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 310
+# File: cruises_listreservations.php, line: 306
+# File: cruises_searchreservations.php, line: 631
+# File: header.php, line: 396
+msgid "Reservations"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 311
+# File: cruises_listreservations.php, line: 307
+msgid "Sort by To"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 316
+# File: cruises_listreservations.php, line: 312
+msgid "Are you sure you want to delete the selected Reservation(s)?"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 318
+# File: cruises_listreservations.php, line: 315
+# File: frameleft.php, line: 175
+# File: header.php, line: 228
+# File: header.php, line: 400
+msgid "List Reservations"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 319
+# File: cruises_listpendingreservationspdf.php, line: 251
+# File: cruises_listreservations.php, line: 316
+# File: cruises_listreservationspdf.php, line: 251
+# File: cruises_searchreservations.php, line: 633
+# File: cruises_searchreservationspdf.php, line: 162
+# File: cruises_searchreservationsxls.php, line: 202
+msgid "Res. Date"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 322
+# File: cruises_listpendingreservationspdf.php, line: 257
+# File: cruises_listpendingreservationssxls.php, line: 312
+# File: cruises_listreservations.php, line: 319
+# File: cruises_listreservationspdf.php, line: 257
+# File: cruises_listreservationssxls.php, line: 313
+# File: cruises_searchreservationspdf.php, line: 166
+# File: cruises_searchreservationsxls.php, line: 206
+msgid "Customer"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 323
+# File: cruises_listpendingreservationspdf.php, line: 258
+# File: cruises_listpendingreservationssxls.php, line: 314
+# File: cruises_listreservations.php, line: 320
+# File: cruises_listreservationspdf.php, line: 258
+# File: cruises_listreservationssxls.php, line: 315
+# File: cruises_viewreservations.php, line: 1334
+msgid "Phone"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 324
+# File: cruises_listreservations.php, line: 321
+msgid "# Allotment"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 325
+# File: cruises_listreservations.php, line: 322
+msgid "# Adults"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 326
+# File: cruises_listreservations.php, line: 323
+msgid "# Children"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 328
+# File: cruises_listreservations.php, line: 325
+# File: cruises_searchreservations.php, line: 640
+msgid "Sort by Number of Rooms"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 329
+# File: cruises_listreservations.php, line: 326
+msgid "Sort by Number of Adults"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 330
+# File: cruises_listreservations.php, line: 327
+msgid "Sort by Number of Children"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 331
+# File: cruises_listreservations.php, line: 328
+# File: cruises_searchreservations.php, line: 647
+msgid "PDF"
+msgstr ""
+#
+# File: cruises_listpendingreservations.php, line: 332
+# File: cruises_listreservations.php, line: 329
+# File: cruises_searchreservations.php, line: 648
+msgid "Excel"
+msgstr ""
+#
+# File: cruises_listpendingreservationspdf.php, line: 199
+# File: cruises_listpendingreservationspdf.php, line: 335
+# File: cruises_listpendingreservationssxls.php, line: 297
+# File: cruises_listpendingreservationssxls.php, line: 307
+msgid "List Cruises Pending Reservations"
+msgstr ""
+#
+# File: cruises_listpendingreservationspdf.php, line: 254
+# File: cruises_listreservationspdf.php, line: 254
+# File: cruises_viewreservations.php, line: 1864
+msgid "Allotment"
+msgstr ""
+#
+# File: cruises_listpendingreservationspdf.php, line: 255
+# File: cruises_listreservationspdf.php, line: 255
+# File: cruises_viewreservations.php, line: 1466
+msgid "Adults"
+msgstr ""
+#
+# File: cruises_listpendingreservationspdf.php, line: 256
+# File: cruises_listreservationspdf.php, line: 256
+# File: cruises_viewreservations.php, line: 1468
+msgid "Children"
+msgstr ""
+#
+# File: cruises_listpendingreservationssxls.php, line: 308
+# File: cruises_listreservationssxls.php, line: 309
+msgid "Reserv. Date"
+msgstr ""
+#
+# File: cruises_listpendingreservationssxls.php, line: 313
+# File: cruises_listreservationssxls.php, line: 314
+msgid "Country"
+msgstr ""
+#
+# File: cruises_listpendingreservationssxls.php, line: 315
+# File: cruises_listreservationssxls.php, line: 316
+# File: cruises_viewreservations.php, line: 1333
+# File: cruises_viewreservations.php, line: 1876
+msgid "Email"
+msgstr ""
+#
+# File: cruises_listreservations.php, line: 109
+# File: cruises_listreservationspdf.php, line: 199
+# File: cruises_listreservationspdf.php, line: 335
+# File: cruises_listreservationssxls.php, line: 298
+# File: cruises_listreservationssxls.php, line: 308
+msgid "List Cruises Reservations"
+msgstr ""
+#
+# File: cruises_makebookings.php, line: 80
+msgid "Make Bookings"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 499
+# File: cruises_searchreservationspdf.php, line: 222
+# File: cruises_searchreservationsxls.php, line: 133
+msgid "B2C"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 570
+# File: framemiddle.php, line: 88
+# File: framemiddle.php, line: 151
+# File: index.php, line: 146
+# File: index.php, line: 209
+msgid "Show All"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 616
+msgid "Agent:"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 618
+# File: cruises_searchreservations.php, line: 685
+# File: cruises_searchreservationspdf.php, line: 126
+# File: cruises_searchreservationspdf.php, line: 276
+# File: cruises_searchreservationsxls.php, line: 195
+# File: cruises_searchreservationsxls.php, line: 201
+# File: header.php, line: 230
+# File: header.php, line: 331
+# File: header.php, line: 402
+msgid "Search Reservations"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 619
+# File: framemiddle.php, line: 231
+# File: index.php, line: 289
+msgid "Search for:"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 620
+# File: framemiddle.php, line: 215
+# File: index.php, line: 273
+msgid "Search for reservations"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 621
+# File: framemiddle.php, line: 232
+# File: index.php, line: 290
+msgid "First name"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 622
+# File: framemiddle.php, line: 233
+# File: index.php, line: 291
+msgid "Last name"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 623
+# File: framemiddle.php, line: 234
+# File: index.php, line: 292
+msgid "E-mail"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 624
+# File: framemiddle.php, line: 235
+# File: index.php, line: 293
+msgid "Company"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 627
+msgid "Are you sure you want to delete the selected reservations?"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 630
+msgid "Search Reservations Results"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 632
+# File: cruises_viewreservations.php, line: 1473
+# File: cruises_viewreservations.php, line: 1502
+msgid "Date"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 634
+# File: cruises_viewreservations.php, line: 1487
+msgid "Reservation Date"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 637
+# File: framemiddle.php, line: 221
+# File: index.php, line: 279
+msgid "Status:"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 638
+msgid "Property"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 639
+msgid "Agent/Customer"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 641
+msgid "Sort by Property"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 643
+# File: framemiddle.php, line: 227
+# File: index.php, line: 285
+msgid "Booked Between:"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 644
+# File: framemiddle.php, line: 228
+# File: index.php, line: 286
+msgid "Arrival Between:"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 645
+# File: framemiddle.php, line: 226
+# File: index.php, line: 284
+msgid "and"
+msgstr ""
+#
+# File: cruises_searchreservations.php, line: 646
+# File: framemiddle.php, line: 250
+# File: framemiddle.php, line: 251
+# File: index.php, line: 308
+msgid "Reservation Number:"
+msgstr ""
+#
+# File: cruises_searchreservationspdf.php, line: 165
+# File: cruises_searchreservationsxls.php, line: 205
+# File: cruises_viewreservations.php, line: 1532
+msgid "Agent"
+msgstr ""
+#
+# File: cruises_supplements.php, line: 74
+# File: header.php, line: 410
+msgid "Supplements"
+msgstr ""
+#
+# File: cruises_touricoholidays.php, line: 84
+msgid "Enable Tourico Holidays XML Feed"
+msgstr ""
+#
+# File: cruises_touricoholidays.php, line: 85
+# File: login.php, line: 576
+msgid "Login"
+msgstr ""
+#
+# File: cruises_touricoholidays.php, line: 86
+# File: login.php, line: 579
+msgid "Password"
+msgstr ""
+#
+# File: cruises_touricoholidays.php, line: 87
+msgid "Tourico Holidays  login required"
+msgstr ""
+#
+# File: cruises_touricoholidays.php, line: 88
+msgid "Tourico Holidays password required"
+msgstr ""
+#
+# File: cruises_touricoholidays.php, line: 89
+msgid "Service URL"
+msgstr ""
+#
+# File: cruises_touricoholidays.php, line: 90
+msgid "Tourico Holidays service URL required"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 95
+msgid "Credit card processing engine is not available."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 96
+msgid "Credit card has not been changed because credit card processing engine is not available."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 100
+msgid "Unable to process credit card."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 101
+# File: cruises_viewreservations.php, line: 106
+msgid "Nothing has been charged on the card. This is probably because there is no credit card gateway available."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 105
+msgid "Nothing has been charged on the card."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1186
+msgid "Credit Card"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1324
+msgid "Date From"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1325
+msgid "Date To"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1327
+msgid "Male"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1328
+msgid "Female"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1329
+msgid "Cabin #"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1331
+msgid "Guest Information"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1335
+msgid "Passport"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1336
+msgid "Passport expiration"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1337
+msgid "DOB"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1358
+msgid "Net Price:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1388
+# File: framemiddle.php, line: 242
+# File: header.php, line: 208
+# File: index.php, line: 300
+msgid "New Reservation"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1389
+# File: framemiddle.php, line: 243
+# File: index.php, line: 301
+msgid "Reservation Pending"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1390
+# File: framemiddle.php, line: 244
+# File: index.php, line: 302
+msgid "Reservation Confirmed"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1391
+# File: framemiddle.php, line: 245
+# File: index.php, line: 303
+msgid "Reservation Cancelled"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1392
+# File: framemiddle.php, line: 246
+# File: index.php, line: 304
+msgid "Reservation Waiting Confirmation"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1393
+# File: framemiddle.php, line: 247
+# File: index.php, line: 305
+msgid "Checked In"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1394
+# File: framemiddle.php, line: 248
+# File: index.php, line: 306
+msgid "Checked Out"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1395
+# File: framemiddle.php, line: 249
+# File: index.php, line: 307
+msgid "Complete"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1396
+msgid "Awaiting Payment"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1397
+msgid "Payment Recieved"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1398
+msgid "Payment Refuded"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1399
+msgid "Chargeback"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1400
+msgid "Payment On Hold"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1401
+msgid "Partially Paid"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1402
+msgid "Do not notify customer by email when reservation is updated"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1418
+msgid "Direct Reservation"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1450
+msgid "Special Request Information"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1457
+msgid "Voucher"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1459
+msgid "Deleted selected"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1460
+msgid "Sort by Status"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1464
+msgid "Are you sure you want to delete the selected reservation?"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1467
+msgid "Orders"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1469
+msgid "Sort by Order ID"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1470
+msgid "Order ID"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1471
+msgid "Sort by Customer"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1472
+msgid "Customer Name"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1474
+msgid "Sort by Date"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1475
+msgid "Sort by Total"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1476
+msgid "Total"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1477
+# File: framemiddle.php, line: 224
+# File: index.php, line: 282
+msgid "Reservation Total"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1478
+msgid "View Reservation"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1479
+msgid "Customer Information"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1480
+msgid "Reservation Information"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1481
+# File: live_search.php, line: 107
+# File: live_search.php, line: 108
+# File: live_search.php, line: 110
+msgid "Reservation #"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1482
+msgid "IP Address"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1483
+msgid "Check In"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1484
+msgid "Check Out"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1485
+msgid "Reservation Number"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1486
+# File: cruises_viewreservations.php, line: 1932
+msgid "Reservation Updated"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1488
+# File: live_search.php, line: 138
+# File: live_search.php, line: 139
+msgid "Customer #"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1489
+msgid "Reservation Status"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1490
+msgid "Payment Method"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1491
+msgid "Payment Status"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1492
+msgid "Bank Information"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1493
+msgid "Name on the customer bank account"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1494
+msgid "Bank name"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1495
+msgid "Bank account number"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1496
+msgid "Bank ABA routingt number"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1497
+msgid "Credit Card Information"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1498
+msgid "Credit Card Name"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1499
+msgid "Credit Card Number"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1500
+msgid "Expiration Date"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1501
+msgid "CVV"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1503
+msgid "Qty"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1504
+msgid "Unit cabin_id"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1505
+msgid "Subtotal"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1506
+msgid "Miscellaneous"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1507
+msgid "Miscellaneous Pending"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1508
+msgid "Deposit"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1509
+msgid "Paid"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1510
+msgid "Pending"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1511
+msgid "Lodging Pending"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1512
+msgid "Total Pending"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1513
+msgid "Total Paid"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1514
+msgid "Tax"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1515
+msgid "Print Reservation"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1516
+msgid "Print Reservation (PDF)"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1517
+msgid "Make Payment"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1518
+msgid "Fraud Detection Information"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1519
+# File: cruises_viewreservations.php, line: 1531
+msgid "Fraud Score"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1520
+msgid "(0 low risk, 10 high risk)"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1521
+msgid "Country Match"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1522
+msgid "IP Country Code"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1523
+# File: cruises_viewreservations.php, line: 1524
+msgid "High Risk Country"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1525
+msgid "Spam Score"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1526
+msgid "Credit Card Country Code"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1527
+msgid "Credit Card Country Match"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1528
+msgid "Internet Service Provider"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1529
+msgid "Free E-mail Provider"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1530
+msgid "Anonymous Proxy"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1533
+msgid "Assign Unit/Room:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1626
+msgid "Visa"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1629
+msgid "Mastercard"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1632
+msgid "American Express"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1635
+msgid "Discover"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1638
+msgid "Diners"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1642
+msgid "Credit Card Type"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1651
+msgid "Customer Memo"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1652
+msgid "Internal Memo"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1705
+msgid "Client IP address is required but was not found. Credit Card Fraud Detection has not been performed"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1709
+# File: cruises_viewreservations.php, line: 1713
+msgid "Country information is required but was not found. Credit Card Fraud Detection has not been performed"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1717
+# File: cruises_viewreservations.php, line: 1721
+msgid "City information is required but was not found. Credit Card Fraud Detection has not been performed"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1725
+msgid "ZIP Code/Postal Code information is required but was not found. Credit Card Fraud Detection has not been performed"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1816
+msgid "Credit Card Fraud Detection System Failed"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1835
+msgid "Price:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1836
+msgid "Deposit:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1837
+msgid "Paid:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1838
+msgid "Pending:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1839
+msgid "Print Invoice"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1840
+msgid "Print Invoice (PDF)"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1841
+msgid "Room/Unit Number:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1842
+msgid "Add New Guest Name"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1843
+msgid "Add or Update Credit Card"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1844
+msgid "Edit Guest Name"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1845
+msgid "Assigned Room/Unit Number:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1846
+msgid "Assigned Unit Number"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1847
+msgid "Assigned"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1867
+msgid "Discount"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1870
+msgid "Send Voucher"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1878
+# File: cruises_viewreservations.php, line: 1934
+msgid "Information"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1879
+msgid "Important"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1880
+msgid "Payment is not required"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1881
+msgid "Before updating the reservation dates. Please make sure there is availability for the new dates. Overbooking will occur if there is no availability."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1882
+msgid "Before updating the reservation unit type please make sure there is availability for the new unit. Overbooking will occur if there are no units available for the new assigned unit."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1883
+msgid "Before updating the reservation quantity please make sure there is enought availability. Overbooking will occur if there is no availability."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1886
+msgid "Are you sure you want to delete selected guest"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1890
+msgid "Price"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1891
+msgid "OK"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1892
+msgid "Net Price"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1893
+msgid "Net Total"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1896
+msgid "Reservation Details"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1898
+msgid "Not Cancelled/No reason"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1911
+msgid "Holding fee has been paid"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1912
+msgid "Event fee has been paid"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1913
+msgid "The score calculated to estimate the riskiness of accepting a credit card ranges from 0 (low risk) to 10 (high risk) and is calculated as follows:"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1914
+msgid "score = 2.5 * if e-mail is from free e-mail provider (free e-mail = higher risk)"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1915
+msgid "score = 2.5 * if country of IP address matches billing address country (mismatch = higher risk)"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1916
+msgid "score = 5 * if IP address is Anonymous Proxy (anonymous proxy = very high risk)"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1917
+msgid "score = 5 * if IP address or billing address country is in Ghana, Nigeria, or Vietnam."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1918
+msgid "score = 10 * if Distance from IP address to Billing Location in kilometers (large distance = higher risk)"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1919
+msgid "score = 2 * if country of issuing bank based on BIN number matches billing address country"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1920
+msgid "score = 1 * if name of issuing bank matches inputted binName. A return value of Yes provides a positive indication that cardholder is in possession of credit card"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1921
+msgid "score = 5 * if e-mail is in database of high risk e-mails"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1922
+msgid "score = 5 * if username input is in database of high risk usernames"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1923
+msgid "score = 5 * if password input is in database of high risk passwords"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1924
+msgid "score = 5 * if address is in database of known mail drops"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1925
+msgid "score = 2.5 * if Likelihood of IP Address being an Open Proxy"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1926
+msgid "Note this formula is capped at 10"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1927
+msgid "Please make sure you click the Update Selected button for the changes to take effect."
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1928
+msgid "Payment is not required for this reservation"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1931
+msgid "Cancellation reason"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1933
+msgid "Cancellation #"
+msgstr ""
+#
+# File: cruises_viewreservations.php, line: 1935
+msgid "This is an internal booking made manually via Property Management System"
+msgstr ""
+#
+# File: frameleft.php, line: 173
+# File: header.php, line: 136
+# File: header.php, line: 241
+msgid "Portal Settings"
+msgstr ""
+#
+# File: frameleft.php, line: 174
+# File: header.php, line: 115
+msgid "Payment Options"
+msgstr ""
+#
+# File: frameleft.php, line: 176
+# File: header.php, line: 133
+# File: header.php, line: 238
+msgid "Properties Manager"
+msgstr ""
+#
+# File: frameleft.php, line: 177
+# File: header.php, line: 135
+# File: header.php, line: 240
+msgid "User Manager"
+msgstr ""
+#
+# File: frameleft.php, line: 178
+# File: header.php, line: 139
+# File: header.php, line: 244
+msgid "List Properties"
+msgstr ""
+#
+# File: frameleft.php, line: 179
+# File: header.php, line: 131
+# File: header.php, line: 236
+msgid "List Users"
+msgstr ""
+#
+# File: frameleft.php, line: 180
+# File: header.php, line: 140
+# File: header.php, line: 245
+msgid "Add New Property"
+msgstr ""
+#
+# File: frameleft.php, line: 181
+# File: header.php, line: 132
+# File: header.php, line: 237
+msgid "Add New User"
+msgstr ""
+#
+# File: frameleft.php, line: 182
+# File: header.php, line: 141
+# File: header.php, line: 246
+msgid "Search Property"
+msgstr ""
+#
+# File: frameleft.php, line: 183
+# File: header.php, line: 142
+# File: header.php, line: 247
+msgid "Featured Properties"
+msgstr ""
+#
+# File: frameleft.php, line: 184
+# File: header.php, line: 134
+# File: header.php, line: 239
+msgid "XML Feeds Manager"
+msgstr ""
+#
+# File: frameleft.php, line: 185
+msgid "BOOKING.COM"
+msgstr ""
+#
+# File: frameleft.php, line: 186
+msgid "IAN.com"
+msgstr ""
+#
+# File: frameleft.php, line: 187
+msgid "World Choice Travel"
+msgstr ""
+#
+# File: frameleft.php, line: 188
+msgid "IHSAdvantage.com"
+msgstr ""
+#
+# File: frameleft.php, line: 189
+msgid "Exclude List"
+msgstr ""
+#
+# File: frameleft.php, line: 190
+# File: header.php, line: 82
+# File: header.php, line: 114
+# File: header.php, line: 280
+# File: header.php, line: 295
+msgid "XML Feeds Exclude List"
+msgstr ""
+#
+# File: frameleft.php, line: 191
+msgid "roomsXML"
+msgstr ""
+#
+# File: frameleft.php, line: 192
+msgid "HotelClub"
+msgstr ""
+#
+# File: frameleft.php, line: 193
+msgid "RatesToGo"
+msgstr ""
+#
+# File: frameleft.php, line: 194
+msgid "Maintrack"
+msgstr ""
+#
+# File: frameleft.php, line: 196
+msgid "TransHotel"
+msgstr ""
+#
+# File: frameleft.php, line: 197
+msgid "IHS Affiliate"
+msgstr ""
+#
+# File: frameleft.php, line: 198
+# File: header.php, line: 146
+# File: header.php, line: 251
+msgid "List XML Properties"
+msgstr ""
+#
+# File: frameleft.php, line: 199
+# File: header.php, line: 137
+# File: header.php, line: 242
+msgid "Service Manager"
+msgstr ""
+#
+# File: frameleft.php, line: 200
+# File: header.php, line: 130
+# File: header.php, line: 235
+msgid "Service Charge"
+msgstr ""
+#
+# File: frameleft.php, line: 201
+# File: header.php, line: 109
+msgid "Search Requests"
+msgstr ""
+#
+# File: frameleft.php, line: 202
+# File: header.php, line: 149
+# File: header.php, line: 254
+msgid "Real Time Payment"
+msgstr ""
+#
+# File: frameleft.php, line: 203
+# File: header.php, line: 150
+# File: header.php, line: 255
+msgid "Splash Screen Manager"
+msgstr ""
+#
+# File: frameleft.php, line: 204
+# File: header.php, line: 153
+# File: header.php, line: 258
+msgid "ACL - List Users"
+msgstr ""
+#
+# File: frameleft.php, line: 205
+# File: header.php, line: 154
+# File: header.php, line: 259
+msgid "ACL - Administration"
+msgstr ""
+#
+# File: frameleft.php, line: 206
+# File: header.php, line: 155
+# File: header.php, line: 260
+msgid "ACL - Control List"
+msgstr ""
+#
+# File: frameleft.php, line: 207
+# File: header.php, line: 156
+# File: header.php, line: 261
+msgid "ACL - Create User"
+msgstr ""
+#
+# File: frameleft.php, line: 208
+# File: header.php, line: 157
+# File: header.php, line: 262
+msgid "ACL - Event Viewer"
+msgstr ""
+#
+# File: frameleft.php, line: 209
+# File: header.php, line: 145
+# File: header.php, line: 250
+msgid "GDS Property Connectivity"
+msgstr ""
+#
+# File: frameleft.php, line: 211
+# File: header.php, line: 152
+# File: header.php, line: 257
+msgid "Banners"
+msgstr ""
+#
+# File: framemiddle.php, line: 137
+# File: index.php, line: 195
+msgid "Reservation Request Total"
+msgstr ""
+#
+# File: framemiddle.php, line: 140
+# File: index.php, line: 198
+msgid "All Customers"
+msgstr ""
+#
+# File: framemiddle.php, line: 143
+# File: index.php, line: 201
+msgid "All B2C Customers"
+msgstr ""
+#
+# File: framemiddle.php, line: 146
+# File: index.php, line: 204
+msgid "All B2B Customers"
+msgstr ""
+#
+# File: framemiddle.php, line: 214
+# File: index.php, line: 272
+msgid "Customers:"
+msgstr ""
+#
+# File: framemiddle.php, line: 216
+# File: index.php, line: 274
+msgid "Voucher:"
+msgstr ""
+#
+# File: framemiddle.php, line: 219
+# File: index.php, line: 277
+msgid "Administration Panel"
+msgstr ""
+#
+# File: framemiddle.php, line: 220
+# File: index.php, line: 278
+msgid "Countries:"
+msgstr ""
+#
+# File: framemiddle.php, line: 222
+# File: index.php, line: 280
+msgid "Payment Status:"
+msgstr ""
+#
+# File: framemiddle.php, line: 223
+# File: index.php, line: 281
+msgid "Properties:"
+msgstr ""
+#
+# File: framemiddle.php, line: 225
+# File: index.php, line: 283
+msgid "Reservation Search"
+msgstr ""
+#
+# File: framemiddle.php, line: 229
+# File: index.php, line: 287
+msgid "State/Zone/Region:"
+msgstr ""
+#
+# File: framemiddle.php, line: 252
+# File: index.php, line: 309
+msgid "New Reservations are available"
+msgstr ""
+#
+# File: framemiddle.php, line: 253
+# File: index.php, line: 310
+msgid "There are new reservations are available. Action is required."
+msgstr ""
+#
+# File: graph_basedonarrivaldate.php, line: 187
+# File: graph_basedonbookingdate.php, line: 187
+msgid "The amount"
+msgstr ""
+#
+# File: graph_basedonarrivaldate.php, line: 187
+msgid "in month made based on check in date"
+msgstr ""
+#
+# File: graph_basedonbookingdate.php, line: 187
+msgid "in month made based on booking date"
+msgstr ""
+#
+# File: graph_last30days.php, line: 189
+msgid "Number reservations per day for the last 30 days"
+msgstr ""
+#
+# File: graph_yearly.php, line: 187
+msgid "Number of booking per month"
+msgstr ""
+#
+# File: header.php, line: 20
+# File: languages.php, line: 89
+# File: settings.php, line: 256
+msgid "Settings"
+msgstr ""
+#
+# File: header.php, line: 21
+msgid "GDS"
+msgstr ""
+#
+# File: header.php, line: 22
+msgid "Geo Target markups"
+msgstr ""
+#
+# File: header.php, line: 23
+# File: header.php, line: 106
+msgid "Statistics"
+msgstr ""
+#
+# File: header.php, line: 24
+# File: header.php, line: 138
+# File: header.php, line: 243
+# File: header.php, line: 411
+msgid "Reports Manager"
+msgstr ""
+#
+# File: header.php, line: 25
+# File: header.php, line: 105
+msgid "Gift Cards"
+msgstr ""
+#
+# File: header.php, line: 26
+msgid "ACL"
+msgstr ""
+#
+# File: header.php, line: 27
+msgid "Booking.com"
+msgstr ""
+#
+# File: header.php, line: 28
+msgid "Hotelier"
+msgstr ""
+#
+# File: header.php, line: 29
+# File: header.php, line: 212
+msgid "Newsletter"
+msgstr ""
+#
+# File: header.php, line: 30
+# File: header.php, line: 412
+msgid "XML Feeds"
+msgstr ""
+#
+# File: header.php, line: 31
+# File: header.php, line: 209
+msgid "PMS"
+msgstr ""
+#
+# File: header.php, line: 32
+msgid "PMS Manager"
+msgstr ""
+#
+# File: header.php, line: 33
+# File: header.php, line: 354
+msgid "Affiliates"
+msgstr ""
+#
+# File: header.php, line: 34
+msgid "Affiliates Manager"
+msgstr ""
+#
+# File: header.php, line: 35
+# File: header.php, line: 376
+msgid "Dynamic Packaging"
+msgstr ""
+#
+# File: header.php, line: 36
+msgid "Dynamic Packaging Manager"
+msgstr ""
+#
+# File: header.php, line: 37
+# File: header.php, line: 328
+msgid "Packages"
+msgstr ""
+#
+# File: header.php, line: 38
+msgid "Packages Manager"
+msgstr ""
+#
+# File: header.php, line: 39
+# File: header.php, line: 361
+msgid "Commissions"
+msgstr ""
+#
+# File: header.php, line: 40
+msgid "Commissions Manager"
+msgstr ""
+#
+# File: header.php, line: 41
+msgid "Extra Services"
+msgstr ""
+#
+# File: header.php, line: 42
+msgid "Extra Services Manager"
+msgstr ""
+#
+# File: header.php, line: 43
+msgid "Last login:"
+msgstr ""
+#
+# File: header.php, line: 44
+# File: header.php, line: 309
+msgid "Agents"
+msgstr ""
+#
+# File: header.php, line: 47
+# File: header.php, line: 267
+# File: header.php, line: 282
+msgid "Flights Manager"
+msgstr ""
+#
+# File: header.php, line: 48
+msgid "Air Manager"
+msgstr ""
+#
+# File: header.php, line: 50
+msgid "Consolidator Manager"
+msgstr ""
+#
+# File: header.php, line: 51
+msgid "Agents Manager"
+msgstr ""
+#
+# File: header.php, line: 52
+msgid "Navigation"
+msgstr ""
+#
+# File: header.php, line: 53
+msgid "Home"
+msgstr ""
+#
+# File: header.php, line: 54
+msgid "Go Back"
+msgstr ""
+#
+# File: header.php, line: 55
+msgid "Theme Switcher"
+msgstr ""
+#
+# File: header.php, line: 56
+# File: login.php, line: 590
+msgid "Black Rose Theme"
+msgstr ""
+#
+# File: header.php, line: 57
+# File: login.php, line: 591
+msgid "Gray Standard Theme"
+msgstr ""
+#
+# File: header.php, line: 58
+# File: login.php, line: 592
+msgid "Gray Lightness Theme"
+msgstr ""
+#
+# File: header.php, line: 59
+# File: login.php, line: 593
+msgid "Apple Pie Theme"
+msgstr ""
+#
+# File: header.php, line: 60
+# File: login.php, line: 594
+msgid "Blueberry Theme"
+msgstr ""
+#
+# File: header.php, line: 61
+# File: login.php, line: 595
+msgid "Greenberry Theme"
+msgstr ""
+#
+# File: header.php, line: 62
+msgid "Blue Sky Theme"
+msgstr ""
+#
+# File: header.php, line: 63
+msgid "Salmon Theme"
+msgstr ""
+#
+# File: header.php, line: 64
+msgid "Turquoise Theme"
+msgstr ""
+#
+# File: header.php, line: 65
+msgid "Change layout width"
+msgstr ""
+#
+# File: header.php, line: 66
+msgid "What width would you like the page to have ?"
+msgstr ""
+#
+# File: header.php, line: 67
+msgid "Switch to"
+msgstr ""
+#
+# File: header.php, line: 68
+msgid "Open Sidebar"
+msgstr ""
+#
+# File: header.php, line: 69
+msgid "Close Sidebar"
+msgstr ""
+#
+# File: header.php, line: 70
+msgid "width"
+msgstr ""
+#
+# File: header.php, line: 71
+msgid "width layout"
+msgstr ""
+#
+# File: header.php, line: 72
+msgid "layout"
+msgstr ""
+#
+# File: header.php, line: 73
+msgid "Flights"
+msgstr ""
+#
+# File: header.php, line: 74
+msgid "Airline Manager"
+msgstr ""
+#
+# File: header.php, line: 75
+msgid "Cars Manager"
+msgstr ""
+#
+# File: header.php, line: 76
+# File: header.php, line: 231
+msgid "Cars"
+msgstr ""
+#
+# File: header.php, line: 78
+# File: login.php, line: 596
+msgid "Logout"
+msgstr ""
+#
+# File: header.php, line: 80
+msgid "Welcome"
+msgstr ""
+#
+# File: header.php, line: 83
+msgid "PR Aviation"
+msgstr ""
+#
+# File: header.php, line: 84
+msgid "Galileo"
+msgstr ""
+#
+# File: header.php, line: 85
+msgid "Major Travel"
+msgstr ""
+#
+# File: header.php, line: 86
+msgid "Triton Airfares"
+msgstr ""
+#
+# File: header.php, line: 87
+# File: header.php, line: 270
+# File: header.php, line: 285
+msgid "Seating Classes"
+msgstr ""
+#
+# File: header.php, line: 88
+# File: header.php, line: 271
+# File: header.php, line: 286
+msgid "Cabin Classes"
+msgstr ""
+#
+# File: header.php, line: 89
+# File: header.php, line: 272
+# File: header.php, line: 287
+msgid "City Airport"
+msgstr ""
+#
+# File: header.php, line: 90
+# File: header.php, line: 273
+# File: header.php, line: 288
+msgid "Credit Card Issuer"
+msgstr ""
+#
+# File: header.php, line: 91
+# File: header.php, line: 274
+# File: header.php, line: 289
+msgid "Inflight Service"
+msgstr ""
+#
+# File: header.php, line: 92
+# File: header.php, line: 275
+# File: header.php, line: 290
+msgid "Passenger Service Request"
+msgstr ""
+#
+# File: header.php, line: 93
+# File: header.php, line: 276
+# File: header.php, line: 291
+msgid "Passenger Title"
+msgstr ""
+#
+# File: header.php, line: 94
+# File: header.php, line: 277
+# File: header.php, line: 292
+msgid "Passenger Type"
+msgstr ""
+#
+# File: header.php, line: 95
+# File: header.php, line: 278
+# File: header.php, line: 293
+msgid "Seating Preference"
+msgstr ""
+#
+# File: header.php, line: 96
+# File: header.php, line: 279
+# File: header.php, line: 294
+msgid "Segment Status"
+msgstr ""
+#
+# File: header.php, line: 97
+msgid "All rights reserved"
+msgstr ""
+#
+# File: header.php, line: 98
+msgid "My Account"
+msgstr ""
+#
+# File: header.php, line: 99
+msgid "Subitem 1"
+msgstr ""
+#
+# File: header.php, line: 100
+msgid "Subitem 2"
+msgstr ""
+#
+# File: header.php, line: 101
+msgid "Messaging"
+msgstr ""
+#
+# File: header.php, line: 104
+msgid "New vs. Returning"
+msgstr ""
+#
+# File: header.php, line: 107
+msgid "List Requests"
+msgstr ""
+#
+# File: header.php, line: 108
+msgid "List Pending Requests"
+msgstr ""
+#
+# File: header.php, line: 110
+msgid "List Group Reservations"
+msgstr ""
+#
+# File: header.php, line: 111
+msgid "Search Group Reservations"
+msgstr ""
+#
+# File: header.php, line: 112
+msgid "List Customers"
+msgstr ""
+#
+# File: header.php, line: 113
+msgid "Search Customers"
+msgstr ""
+#
+# File: header.php, line: 116
+msgid "List Gift Cards"
+msgstr ""
+#
+# File: header.php, line: 117
+msgid "Create Gift Cards"
+msgstr ""
+#
+# File: header.php, line: 118
+msgid "Traffic Sources"
+msgstr ""
+#
+# File: header.php, line: 119
+msgid "Latest Visits"
+msgstr ""
+#
+# File: header.php, line: 120
+msgid "Browser Capabilities"
+msgstr ""
+#
+# File: header.php, line: 121
+msgid "Map Overlay"
+msgstr ""
+#
+# File: header.php, line: 122
+msgid "New vs. Recurring"
+msgstr ""
+#
+# File: header.php, line: 123
+# File: languages.php, line: 86
+msgid "Languages"
+msgstr ""
+#
+# File: header.php, line: 124
+msgid "Click Patterns"
+msgstr ""
+#
+# File: header.php, line: 125
+msgid "Goals"
+msgstr ""
+#
+# File: header.php, line: 126
+msgid "Global Occupancy Report"
+msgstr ""
+#
+# File: header.php, line: 127
+msgid "Visitors Report"
+msgstr ""
+#
+# File: header.php, line: 128
+msgid "Conversions Report"
+msgstr ""
+#
+# File: header.php, line: 129
+msgid "Bookings Request"
+msgstr ""
+#
+# File: header.php, line: 143
+# File: header.php, line: 248
+msgid "Property Description"
+msgstr ""
+#
+# File: header.php, line: 144
+# File: header.php, line: 249
+msgid "Agents Availability"
+msgstr ""
+#
+# File: header.php, line: 147
+# File: header.php, line: 252
+msgid "Search XML Properties"
+msgstr ""
+#
+# File: header.php, line: 148
+# File: header.php, line: 253
+msgid "Payment Options (Exclusion)"
+msgstr ""
+#
+# File: header.php, line: 151
+# File: header.php, line: 160
+# File: header.php, line: 256
+msgid "Geo Target Markups"
+msgstr ""
+#
+# File: header.php, line: 158
+# File: header.php, line: 263
+msgid "ACL - Profile"
+msgstr ""
+#
+# File: header.php, line: 159
+msgid "Search Reservations (Guests)"
+msgstr ""
+#
+# File: header.php, line: 161
+msgid "List Pending Messages"
+msgstr ""
+#
+# File: header.php, line: 162
+msgid "List Messages"
+msgstr ""
+#
+# File: header.php, line: 163
+msgid "List Group Bookings"
+msgstr ""
+#
+# File: header.php, line: 164
+msgid "Pending Group Bookings"
+msgstr ""
+#
+# File: header.php, line: 165
+msgid "Grp. Bookings Under Process"
+msgstr ""
+#
+# File: header.php, line: 166
+msgid "Cancelled Group Bookings"
+msgstr ""
+#
+# File: header.php, line: 167
+msgid "Confirmed Group Bookings"
+msgstr ""
+#
+# File: header.php, line: 170
+msgid "Cruises Ports"
+msgstr ""
+#
+# File: header.php, line: 171
+msgid "Cruises Regions"
+msgstr ""
+#
+# File: header.php, line: 172
+msgid "Search Agents"
+msgstr ""
+#
+# File: header.php, line: 173
+msgid "List Agent Types"
+msgstr ""
+#
+# File: header.php, line: 174
+msgid "New Customer"
+msgstr ""
+#
+# File: header.php, line: 176
+msgid "Rooming List"
+msgstr ""
+#
+# File: header.php, line: 177
+msgid "Rooming List Booked"
+msgstr ""
+#
+# File: header.php, line: 178
+msgid "Payment Report"
+msgstr ""
+#
+# File: header.php, line: 179
+msgid "Management Information"
+msgstr ""
+#
+# File: header.php, line: 180
+msgid "List Invoices"
+msgstr ""
+#
+# File: header.php, line: 181
+msgid "Room Type(s)/Unit(s)"
+msgstr ""
+#
+# File: header.php, line: 182
+msgid "Page HTML Editor Section"
+msgstr ""
+#
+# File: header.php, line: 183
+msgid "Make Booking"
+msgstr ""
+#
+# File: header.php, line: 186
+msgid "Affiliates (Services)"
+msgstr ""
+#
+# File: header.php, line: 187
+msgid "New Affiliate"
+msgstr ""
+#
+# File: header.php, line: 188
+msgid "List Affiliates"
+msgstr ""
+#
+# File: header.php, line: 189
+msgid "New Extra Service"
+msgstr ""
+#
+# File: header.php, line: 190
+msgid "List Extra Services"
+msgstr ""
+#
+# File: header.php, line: 191
+msgid "Extra Services Types"
+msgstr ""
+#
+# File: header.php, line: 195
+# File: header.php, line: 205
+msgid "Daily Departure"
+msgstr ""
+#
+# File: header.php, line: 196
+msgid "New Group Reservation"
+msgstr ""
+#
+# File: header.php, line: 197
+# File: header.php, line: 207
+msgid "Daily Rates"
+msgstr ""
+#
+# File: header.php, line: 198
+msgid "Checkin"
+msgstr ""
+#
+# File: header.php, line: 199
+msgid "Walk In"
+msgstr ""
+#
+# File: header.php, line: 200
+msgid "Checkout"
+msgstr ""
+#
+# File: header.php, line: 201
+msgid "Quick Reservation"
+msgstr ""
+#
+# File: header.php, line: 202
+msgid "House Keeping"
+msgstr ""
+#
+# File: header.php, line: 203
+msgid "Daily Arrival"
+msgstr ""
+#
+# File: header.php, line: 204
+msgid "Daily Arrival (Unit Numbers)"
+msgstr ""
+#
+# File: header.php, line: 206
+msgid "Daily Guests"
+msgstr ""
+#
+# File: header.php, line: 213
+msgid "Create Newsletter"
+msgstr ""
+#
+# File: header.php, line: 214
+msgid "List Newsletter"
+msgstr ""
+#
+# File: header.php, line: 215
+msgid "Broadcast Newsletter"
+msgstr ""
+#
+# File: header.php, line: 216
+msgid "List Broadcast Newsletter"
+msgstr ""
+#
+# File: header.php, line: 217
+msgid "List Newsletter Members"
+msgstr ""
+#
+# File: header.php, line: 220
+msgid "Cars XML Feeds"
+msgstr ""
+#
+# File: header.php, line: 221
+msgid "Reservations Manager"
+msgstr ""
+#
+# File: header.php, line: 222
+msgid "Car Rate Type"
+msgstr ""
+#
+# File: header.php, line: 223
+msgid "Car Type"
+msgstr ""
+#
+# File: header.php, line: 224
+msgid "Car Vendor"
+msgstr ""
+#
+# File: header.php, line: 225
+msgid "Car Rate Category"
+msgstr ""
+#
+# File: header.php, line: 226
+msgid "Car Location"
+msgstr ""
+#
+# File: header.php, line: 227
+msgid "Car Additional Equipment"
+msgstr ""
+#
+# File: header.php, line: 266
+msgid "Availability"
+msgstr ""
+#
+# File: header.php, line: 268
+# File: header.php, line: 283
+msgid "Airlines Manager"
+msgstr ""
+#
+# File: header.php, line: 269
+# File: header.php, line: 284
+msgid "Flights XML Feeds"
+msgstr ""
+#
+# File: header.php, line: 281
+# File: header.php, line: 296
+msgid "Flight Insurance"
+msgstr ""
+#
+# File: header.php, line: 297
+msgid "Insurance Manager"
+msgstr ""
+#
+# File: header.php, line: 298
+msgid "Airline"
+msgstr ""
+#
+# File: header.php, line: 299
+# File: header.php, line: 343
+msgid "Airports"
+msgstr ""
+#
+# File: header.php, line: 300
+msgid "Aircraft Type"
+msgstr ""
+#
+# File: header.php, line: 301
+msgid "Configurations"
+msgstr ""
+#
+# File: header.php, line: 302
+msgid "List Pending Bookings"
+msgstr ""
+#
+# File: header.php, line: 303
+msgid "List Bookings"
+msgstr ""
+#
+# File: header.php, line: 304
+msgid "Search Bookings"
+msgstr ""
+#
+# File: header.php, line: 305
+msgid "Manage Routes"
+msgstr ""
+#
+# File: header.php, line: 306
+msgid "Mapping"
+msgstr ""
+#
+# File: header.php, line: 310
+# File: header.php, line: 337
+msgid "XML Packages"
+msgstr ""
+#
+# File: header.php, line: 311
+msgid "Assign Properties"
+msgstr ""
+#
+# File: header.php, line: 312
+# File: header.php, line: 341
+msgid "Hotel Availability Rates"
+msgstr ""
+#
+# File: header.php, line: 313
+# File: header.php, line: 334
+# File: header.php, line: 342
+msgid "Package Types"
+msgstr ""
+#
+# File: header.php, line: 314
+# File: header.php, line: 329
+msgid "Localization"
+msgstr ""
+#
+# File: header.php, line: 315
+# File: header.php, line: 321
+msgid "Agents Rates"
+msgstr ""
+#
+# File: header.php, line: 316
+msgid "New Agent"
+msgstr ""
+#
+# File: header.php, line: 317
+msgid "List Agents"
+msgstr ""
+#
+# File: header.php, line: 318
+msgid "Agent Rates"
+msgstr ""
+#
+# File: header.php, line: 319
+msgid "Agent Profiles"
+msgstr ""
+#
+# File: header.php, line: 320
+msgid "Agents Profiles"
+msgstr ""
+#
+# File: header.php, line: 322
+msgid "New Sub Agent"
+msgstr ""
+#
+# File: header.php, line: 323
+msgid "List Sub Agent"
+msgstr ""
+#
+# File: header.php, line: 326
+# File: header.php, line: 338
+msgid "New Package"
+msgstr ""
+#
+# File: header.php, line: 327
+# File: header.php, line: 340
+msgid "List Packages"
+msgstr ""
+#
+# File: header.php, line: 332
+msgid "Create Package User"
+msgstr ""
+#
+# File: header.php, line: 333
+msgid "List Pckage User (Supplier)"
+msgstr ""
+#
+# File: header.php, line: 335
+msgid "Page HTML Editor"
+msgstr ""
+#
+# File: header.php, line: 336
+msgid "Packages Availability"
+msgstr ""
+#
+# File: header.php, line: 339
+# File: header.php, line: 347
+msgid "Featured Packages"
+msgstr ""
+#
+# File: header.php, line: 344
+msgid "Eurostar"
+msgstr ""
+#
+# File: header.php, line: 345
+msgid "Destinations"
+msgstr ""
+#
+# File: header.php, line: 346
+msgid "Commission Report"
+msgstr ""
+#
+# File: header.php, line: 348
+msgid "Create Package User (Supplier)"
+msgstr ""
+#
+# File: header.php, line: 349
+msgid "List Package User (Supplier)"
+msgstr ""
+#
+# File: header.php, line: 350
+msgid "Create Affiliate"
+msgstr ""
+#
+# File: header.php, line: 351
+msgid "List Affiliate"
+msgstr ""
+#
+# File: header.php, line: 355
+msgid "Affiliates Report"
+msgstr ""
+#
+# File: header.php, line: 356
+msgid "Detailed Commission Report"
+msgstr ""
+#
+# File: header.php, line: 357
+msgid "Property Exclude List"
+msgstr ""
+#
+# File: header.php, line: 360
+msgid "Commission"
+msgstr ""
+#
+# File: header.php, line: 362
+msgid "Net Commission Report"
+msgstr ""
+#
+# File: header.php, line: 363
+msgid "List Property Commissions"
+msgstr ""
+#
+# File: header.php, line: 364
+msgid "New Property Commission"
+msgstr ""
+#
+# File: header.php, line: 365
+msgid "Set Property Commission"
+msgstr ""
+#
+# File: header.php, line: 366
+msgid "Agent Commissions Report"
+msgstr ""
+#
+# File: header.php, line: 367
+msgid "Commissions Report"
+msgstr ""
+#
+# File: header.php, line: 368
+msgid "Hotel Revenue"
+msgstr ""
+#
+# File: header.php, line: 369
+msgid "Commissions Due"
+msgstr ""
+#
+# File: header.php, line: 370
+msgid "Commissions Due (History)"
+msgstr ""
+#
+# File: header.php, line: 371
+msgid "Commissions Payable"
+msgstr ""
+#
+# File: header.php, line: 372
+msgid "Set Property Commissions"
+msgstr ""
+#
+# File: header.php, line: 373
+msgid "Net Commission Report Total"
+msgstr ""
+#
+# File: header.php, line: 377
+msgid "Check Reports"
+msgstr ""
+#
+# File: header.php, line: 378
+msgid "Tax Reports"
+msgstr ""
+#
+# File: header.php, line: 379
+msgid "Reports"
+msgstr ""
+#
+# File: header.php, line: 380
+msgid "Pending Reservations"
+msgstr ""
+#
+# File: header.php, line: 381
+msgid "Confirmed Reservations"
+msgstr ""
+#
+# File: header.php, line: 382
+msgid "Checks in queue"
+msgstr ""
+#
+# File: header.php, line: 383
+msgid "Check Register"
+msgstr ""
+#
+# File: header.php, line: 384
+msgid "Deposits"
+msgstr ""
+#
+# File: header.php, line: 385
+msgid "Money Paid"
+msgstr ""
+#
+# File: header.php, line: 386
+msgid "Unbalanced Reservations"
+msgstr ""
+#
+# File: header.php, line: 387
+msgid "Customer Balances"
+msgstr ""
+#
+# File: header.php, line: 388
+msgid "Vendor payments due"
+msgstr ""
+#
+# File: header.php, line: 389
+msgid "Lift tickets to be ordered"
+msgstr ""
+#
+# File: header.php, line: 390
+msgid "Commissions due"
+msgstr ""
+#
+# File: header.php, line: 391
+msgid "Bookings made"
+msgstr ""
+#
+# File: header.php, line: 392
+msgid "Sales Report"
+msgstr ""
+#
+# File: header.php, line: 393
+msgid "Dynamic Packaging Settings"
+msgstr ""
+#
+# File: header.php, line: 394
+msgid "Basic Information"
+msgstr ""
+#
+# File: header.php, line: 395
+msgid "Event Viewer"
+msgstr ""
+#
+# File: header.php, line: 399
+msgid "Cruises"
+msgstr ""
+#
+# File: header.php, line: 406
+msgid "List Transactions"
+msgstr ""
+#
+# File: header.php, line: 407
+msgid "Transactions"
+msgstr ""
+#
+# File: header.php, line: 409
+msgid "Cabin Categories"
+msgstr ""
+#
+# File: header.php, line: 416
+msgid "Travel Guide"
+msgstr ""
+#
+# File: header.php, line: 417
+msgid "Manage Landmark Types"
+msgstr ""
+#
+# File: header.php, line: 418
+msgid "List Landmark Types"
+msgstr ""
+#
+# File: header.php, line: 419
+msgid "Add New Landmark Type"
+msgstr ""
+#
+# File: header.php, line: 420
+msgid "List Land Marks"
+msgstr ""
+#
+# File: header.php, line: 421
+msgid "Add New Landmark"
+msgstr ""
+#
+# File: header.php, line: 422
+msgid "CMS"
+msgstr ""
+#
+# File: header.php, line: 423
+msgid "Featured Destinations"
+msgstr ""
+#
+# File: header.php, line: 424
+msgid "Featured Cities"
+msgstr ""
+#
+# File: languages.php, line: 100
+msgid "Start Date:"
+msgstr ""
+#
+# File: languages.php, line: 101
+msgid "End Date:"
+msgstr ""
+#
+# File: languages.php, line: 102
+msgid "Start Date"
+msgstr ""
+#
+# File: languages.php, line: 103
+msgid "End Date"
+msgstr ""
+#
+# File: languages.php, line: 128
+msgid "week(s)"
+msgstr ""
+#
+# File: live_search.php, line: 89
+msgid "Unable to perform search (reservations)"
+msgstr ""
+#
+# File: live_search.php, line: 92
+# File: live_search.php, line: 127
+# File: live_search.php, line: 156
+# File: live_search.php, line: 185
+# File: live_search.php, line: 186
+msgid "Incorrect database access"
+msgstr ""
+#
+# File: live_search.php, line: 93
+msgid "Incorrect database access - reservations"
+msgstr ""
+#
+# File: live_search.php, line: 102
+msgid "Search results for"
+msgstr ""
+#
+# File: live_search.php, line: 111
+msgid "Voucher #"
+msgstr ""
+#
+# File: live_search.php, line: 112
+msgid "From:"
+msgstr ""
+#
+# File: live_search.php, line: 113
+msgid "To:"
+msgstr ""
+#
+# File: live_search.php, line: 124
+msgid "Unable to perform search (customers)"
+msgstr ""
+#
+# File: live_search.php, line: 128
+msgid "Incorrect database access - customers"
+msgstr ""
+#
+# File: live_search.php, line: 141
+# File: live_search.php, line: 199
+msgid "First Name:"
+msgstr ""
+#
+# File: live_search.php, line: 142
+# File: live_search.php, line: 200
+msgid "Last Name:"
+msgstr ""
+#
+# File: live_search.php, line: 153
+msgid "Unable to perform search (properties)"
+msgstr ""
+#
+# File: live_search.php, line: 157
+msgid "Incorrect database access - properties"
+msgstr ""
+#
+# File: live_search.php, line: 167
+# File: live_search.php, line: 168
+msgid "Property #"
+msgstr ""
+#
+# File: live_search.php, line: 182
+msgid "Unable to perform search (agents)"
+msgstr ""
+#
+# File: live_search.php, line: 196
+# File: live_search.php, line: 197
+msgid "Agent #"
+msgstr ""
+#
+# File: live_search.php, line: 211
+# File: live_search.php, line: 212
+msgid "No results found"
+msgstr ""
+#
+# File: live_search.php, line: 213
+msgid "No search results been found for"
+msgstr ""
+#
+# File: login.php, line: 547
+# File: login.php, line: 552
+msgid "Invalid login or password"
+msgstr ""
+#
+# File: login.php, line: 548
+# File: login.php, line: 553
+msgid "You appear to have entered an invalid user name or password"
+msgstr ""
+#
+# File: login.php, line: 575
+msgid "Recover Password"
+msgstr ""
+#
+# File: login.php, line: 577
+msgid "Login:"
+msgstr ""
+#
+# File: login.php, line: 578
+msgid "Login or email:"
+msgstr ""
+#
+# File: login.php, line: 581
+msgid "Language"
+msgstr ""
+#
+# File: login.php, line: 584
+msgid "Change Theme"
+msgstr ""
+#
+# File: login.php, line: 587
+msgid "Login is required"
+msgstr ""
+#
+# File: login.php, line: 588
+msgid "Login is a required field. Please try again."
+msgstr ""
+#
+# File: login.php, line: 589
+msgid "Password is a required field. Please try again."
+msgstr ""
+#
+# File: login.php, line: 597
+msgid "Captcha Image:"
+msgstr ""
+#
+# File: login.php, line: 598
+msgid "Captcha image:"
+msgstr ""
+#
+# File: login.php, line: 599
+msgid "Image:"
+msgstr ""
+#
+# File: login.php, line: 600
+msgid "Word in Image:"
+msgstr ""
+#
+# File: login.php, line: 601
+msgid "Word in image:"
+msgstr ""
+#
+# File: login.php, line: 602
+msgid "To start the online password reset process, please enter your login and the words shown in the image"
+msgstr ""
+#
+# File: login.php, line: 603
+msgid "Forgot Password?"
+msgstr ""
+#
+# File: login.php, line: 604
+msgid "Incorrect word in image or username. Please try again."
+msgstr ""
+#
+# File: login.php, line: 605
+msgid "Word in image is a required field. Please input the word in the image."
+msgstr ""
+#
+# File: login.php, line: 606
+msgid "Word in image is required"
+msgstr ""
+#
+# File: login.php, line: 607
+msgid "Send new password"
+msgstr ""
+#
+# File: login.php, line: 618
+msgid "English"
+msgstr ""
+#
+# File: login.php, line: 619
+msgid "German"
+msgstr ""
+#
+# File: login.php, line: 620
+msgid "Portuguese"
+msgstr ""
+#
+# File: login.php, line: 621
+msgid "Russian"
+msgstr ""
+#
+# File: login.php, line: 622
+msgid "Arabic"
+msgstr ""
+#
+# File: login.php, line: 623
+msgid "Norweigan"
+msgstr ""
+#
+# File: login.php, line: 624
+msgid "Italian"
+msgstr ""
+#
+# File: login.php, line: 625
+msgid "French"
+msgstr ""
+#
+# File: login.php, line: 626
+msgid "Greek"
+msgstr ""
+#
+# File: login.php, line: 627
+msgid "Danish"
+msgstr ""
+#
+# File: login.php, line: 628
+msgid "Swedish"
+msgstr ""
+#
+# File: login.php, line: 629
+msgid "Turkish"
+msgstr ""
+#
+# File: login.php, line: 630
+msgid "Spanish"
+msgstr ""
+#
+# File: login.php, line: 631
+msgid "Montenegrin"
+msgstr ""
+#
+# File: login.php, line: 637
+msgid "Password has been successfully reset. Please check your email for more details."
+msgstr ""
+#
+# File: notifications-reservations-admin_cruises.php, line: 221
+# File: notifications-reservations_cruises.php, line: 218
+msgid "Payment Status of Reservation #"
+msgstr ""
+#
+# File: notifications-reservations-admin_cruises.php, line: 221
+# File: notifications-reservations-admin_cruises.php, line: 227
+# File: notifications-reservations_cruises.php, line: 218
+# File: notifications-reservations_cruises.php, line: 224
+msgid "has been changed."
+msgstr ""
+#
+# File: notifications-reservations-admin_cruises.php, line: 227
+# File: notifications-reservations_cruises.php, line: 224
+msgid "Reservation Status #"
+msgstr ""
+#
+# File: settings.php, line: 243
+msgid "Google Login is required"
+msgstr ""
+#
+# File: settings.php, line: 244
+msgid "Google Password is required"
+msgstr ""
+#
+# File: settings.php, line: 245
+msgid "Google Account is required"
+msgstr ""
+#
+# File: settings.php, line: 246
+msgid "Enable Google Analytics"
+msgstr ""
+#
+# File: settings.php, line: 247
+msgid "Google Analytics"
+msgstr ""
+#
+# File: settings.php, line: 248
+msgid "Google Analytics Login"
+msgstr ""
+#
+# File: settings.php, line: 249
+msgid "Google Analytics Password"
+msgstr ""
+#
+# File: settings.php, line: 250
+msgid "Google Analytics Account"
+msgstr ""
+#
+# File: settings.php, line: 251
+msgid "Google Tracker ID is required"
+msgstr ""
+#
+# File: settings.php, line: 252
+msgid "Google Analytics Tracker ID"
+msgstr ""
+#
+# File: settings.php, line: 253
+msgid "(Example: UA-xxxxxx-x)"
+msgstr ""
+#
+# File: settings.php, line: 293
+msgid "After you input Google Analytics credentials you will be able to choose what profile you want."
+msgstr ""
+#
+# File: settings.php, line: 295
+msgid "Please input your Analytics credentials and then click Submit. After select the Profile/Account and hit submit Again"
+msgstr ""
